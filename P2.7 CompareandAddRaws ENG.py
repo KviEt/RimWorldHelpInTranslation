@@ -107,7 +107,10 @@ def findText(element, tagPath, li, fileXML, nameDef, stage, className, parentNam
                     expectSTR = re.compile(u"[a-z]+")
                     result = expectSTR.match(text)
                 if(result and text != u"false" and text != u"true"):
-                    print u"\nPerhaps %s necessary to translate"%(tagPath + u"." + subElement.tag) + u", text:"
+                    if(tagPath):
+                        print u"\nPerhaps %s necessary to translate"%(tagPath + u"." + subElement.tag) + u", text:"
+                    else:
+                        print u"\nPerhaps %s necessary to translate"%("None" + u"." + subElement.tag) + u", text:"
                     print text
 
 def findDef(root, fileXML):
@@ -160,7 +163,7 @@ def findAbstract(root, fileXML):
             if(not parentName):
                 parentName = element.get("parentName")
             if(abstract or parentName):
-                findText(element, u"None", 0, fileXML, name, 1, className, parentName, abstract)
+                findText(element, None, 0, fileXML, name, 1, className, parentName, abstract)
         else:
             findAbstract(element, fileXML)
 
