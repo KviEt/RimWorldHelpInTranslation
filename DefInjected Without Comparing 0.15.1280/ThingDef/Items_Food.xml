@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<MealSimple.label>simple meal</MealSimple.label>
+	<MealSimple.description>A simple meal quickly cooked from a few ingredients.</MealSimple.description>
+	<MealNutrientPaste.label>nutrient paste meal</MealNutrientPaste.label>
+	<MealNutrientPaste.description>A synthetic mixture of protein, carbohydrates, and vitamins, amino acids and minerals. Everything the body needs, and absolutely disgusting.</MealNutrientPaste.description>
+	<MealSurvivalPack.label>packaged survival meal</MealSurvivalPack.label>
+	<MealSurvivalPack.description>A high-quality packaged meal, manufactured for use in survival situations.</MealSurvivalPack.description>
+	<MealLavish.label>lavish meal</MealLavish.label>
+	<MealLavish.description>A masterpiece of the culinary arts, this meal nourishes the body, mind, and soul.</MealLavish.description>
+	<MealFine.label>fine meal</MealFine.label>
+	<MealFine.description>A complex dish assembled with care from a wide selection of ingredients.</MealFine.description>
+	<Kibble.label>kibble</Kibble.label>
+	<Kibble.description>Kibble animal feed made from mixed meat and plant sources.</Kibble.description>
+</LanguageData>

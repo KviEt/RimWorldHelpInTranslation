@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<Wealth.graphLabelY>Amount</Wealth.graphLabelY>
+	<Population.label>population</Population.label>
+	<Population.graphLabelY>Colonists</Population.graphLabelY>
+	<ColonistMood.graphLabelY>Percent</ColonistMood.graphLabelY>
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<Cooking.description>Prepare meals and butcher meat.</Cooking.description>
+	<Cooking.pawnLabel>Cook</Cooking.pawnLabel>
+	<Construction.description>Build things that you've designated.</Construction.description>
+	<Construction.pawnLabel>Constructor</Construction.pawnLabel>
+	<Growing.description>Plant seeds and harvest grown crops.</Growing.description>
+	<Growing.pawnLabel>Grower</Growing.pawnLabel>
+	<Mining.description>Dig out areas which are have designated for mining.</Mining.description>
+	<Mining.pawnLabel>Miner</Mining.pawnLabel>
+	<Crafting.description>Do general low-skilled labor at work stations. This includes stonecutting, smelting, and more.</Crafting.description>
+	<Crafting.pawnLabel>Crafter</Crafting.pawnLabel>
+	<Research.description>Perform research work.</Research.description>
+	<Research.pawnLabel>Researcher</Research.pawnLabel>
+</LanguageData>

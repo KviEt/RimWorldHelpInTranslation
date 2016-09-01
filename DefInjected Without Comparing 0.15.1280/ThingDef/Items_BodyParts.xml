@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<Liver.description>Plays an important role in metabolism.</Liver.description>
+	<Lung.label>lung</Lung.label>
+	<Lung.description>Essential part of the respiratory system.</Lung.description>
+	<SimpleProstheticArm.description>Simple but durable arm prosthesis.</SimpleProstheticArm.description>
+	<ScytherBlade.description>Hand replacement with a telescoping blade. Scavenged from a dead scyther mechanoid. Not very comfortable, but quite effective as a close-range weapon.</ScytherBlade.description>
+	<PowerClaw.description>Powerful hand replacement consisting of three deadly claws.</PowerClaw.description>
+	<SimpleProstheticLeg.description>Simple prosthesis made to replace missing leg. Not very comfortable but quite efficient.</SimpleProstheticLeg.description>
+	<BionicEye.description>Advanced piece of technology made not only to fully replace natural eye, but also to give supernatural vision abilities.</BionicEye.description>
+	<Heart.description>Supplies blood and oxygen to all parts of the body. Ready to find a new owner.</Heart.description>
+	<BionicLeg.description>Bionic leg uses cutting-edge technology to give its owner extreme walking comfort and strength.</BionicLeg.description>
+	<Kidney.label>kidney</Kidney.label>
+	<Kidney.description>Filters and removes waste products from the blood.</Kidney.description>
+	<BionicArm.description>One of the most sophisticated arm replacements. Gives extreme strength to its user.</BionicArm.description>
+</LanguageData>

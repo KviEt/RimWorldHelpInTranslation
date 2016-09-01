@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<Misc9.label>Misc 9</Misc9.label>
+	<Misc8.label>Misc 8</Misc8.label>
+	<Misc5.label>Misc 5</Misc5.label>
+	<Misc4.label>Misc 4</Misc4.label>
+	<Misc7.label>Misc 7</Misc7.label>
+	<Misc6.label>Misc 6</Misc6.label>
+	<Misc1.label>Misc 1</Misc1.label>
+	<Misc3.label>Misc 3</Misc3.label>
+	<Misc2.label>Misc 2</Misc2.label>
+	<DesignatorRotateLeft.label>rotate left</DesignatorRotateLeft.label>
+	<MapDollyRight.label>dolly right</MapDollyRight.label>
+	<TimeSpeedUltrafast.label>game speed: ultra fast (debug)</TimeSpeedUltrafast.label>
+	<CommandItemForbid.label>toggle forbidden</CommandItemForbid.label>
+	<PreviousColonist.label>previous colonist</PreviousColonist.label>
+	<MapDollyUp.label>dolly up</MapDollyUp.label>
+	<ToggleDebugLogMenu.label>toggle debug log menu</ToggleDebugLogMenu.label>
+	<ToggleDebugInspector.label>toggle debug inspector</ToggleDebugInspector.label>
+	<NextColonist.label>next colonist</NextColonist.label>
+	<DesignatorDeconstruct.label>deconstruct</DesignatorDeconstruct.label>
+	<DesignatorRotateRight.label>rotate right</DesignatorRotateRight.label>
+	<SelectNextInCell.label>select next in cell</SelectNextInCell.label>
+	<MapZoomIn.label>zoom in</MapZoomIn.label>
+	<TickOnce.label>tick once</TickOnce.label>
+	<ToggleScreenshotMode.label>toggle screenshot mode</ToggleScreenshotMode.label>
+	<ToggleDebugActionsMenu.label>toggle debug actions menu</ToggleDebugActionsMenu.label>
+	<TogglePause.label>pause/resume game</TogglePause.label>
+	<CommandTogglePower.label>toggle power</CommandTogglePower.label>
+	<MapDollyLeft.label>dolly left</MapDollyLeft.label>
+	<CommandColonistDraft.label>draft</CommandColonistDraft.label>
+	<ToggleDebugSettingsMenu.label>toggle debug settings menu</ToggleDebugSettingsMenu.label>
+	<ToggleGodMode.label>toggle god mode</ToggleGodMode.label>
+	<MapDollyDown.label>dolly down</MapDollyDown.label>
+	<TakeScreenshot.label>take screenshot</TakeScreenshot.label>
+	<Misc11.label>Misc 11</Misc11.label>
+	<Misc10.label>Misc 10</Misc10.label>
+	<Misc12.label>Misc 12</Misc12.label>
+	<DesignatorCancel.label>cancel</DesignatorCancel.label>
+	<TimeSpeedNormal.label>game speed: normal</TimeSpeedNormal.label>
+	<ToggleDebugLog.label>toggle debug log</ToggleDebugLog.label>
+	<TimeSpeedSuperfast.label>game speed: super fast</TimeSpeedSuperfast.label>
+	<TimeSpeedFast.label>game speed: fast</TimeSpeedFast.label>
+	<MapZoomOut.label>zoom out</MapZoomOut.label>
+</LanguageData>

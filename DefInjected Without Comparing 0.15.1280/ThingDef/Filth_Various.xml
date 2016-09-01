@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<FilthVomit.label>vomit</FilthVomit.label>
+	<FilthBloodInsect.label>bugblood</FilthBloodInsect.label>
+	<RockRubble.label>rock rubble</RockRubble.label>
+	<FilthDirt.label>dirt</FilthDirt.label>
+	<BuildingRubble.label>building rubble</BuildingRubble.label>
+	<FilthFireFoam.label>firefoam</FilthFireFoam.label>
+	<SandbagRubble.label>scattered sandbags</SandbagRubble.label>
+	<FilthSand.label>sand</FilthSand.label>
+	<FilthSlime.label>slime</FilthSlime.label>
+	<FilthAnimalFilth.label>animal filth</FilthAnimalFilth.label>
+	<FilthAmnioticFluid.label>amniotic fluid</FilthAmnioticFluid.label>
+	<FilthBlood.label>blood</FilthBlood.label>
+	<FilthFuel.label>fuel puddle</FilthFuel.label>
+	<FilthFuel.description>Burns on the ground.</FilthFuel.description>
+</LanguageData>
