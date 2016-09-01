@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<Pemmican.label>вяленое мясо</Pemmican.label>
+	<Pemmican.description>Позволяет обрабатывать мясо травами, чтобы оно не портилось в течение длительного времени. Идеально подходит для путешествий.</Pemmican.description>
+	<Devilstrand.label>дьявлонитник</Devilstrand.label>
+	<Devilstrand.description>Позволяет сажать дьявлонитник - медленно растущий гриб, из которого можно изготовить ценное растительное волокно - дьявлоткань.</Devilstrand.description>
+	<Brewing.label>пивоварение</Brewing.label>
+	<Brewing.description>Позволяет строить пивоварни, чтобы превращать хмель во вкуснющее пиво.</Brewing.description>
+	<Stonecutting.label>обработка камня</Stonecutting.label>
+	<Stonecutting.description>Позволяет строить камнерезные столы, на которых из кусков породы можно создать пригодные для строительства каменные блоки.</Stonecutting.description>
+	<CarpetMaking.label>пошив ковров</CarpetMaking.label>
+	<CarpetMaking.description>Позволяет поселенцам стелить ковры, улучшая привлекательность помещений.</CarpetMaking.description>
+	<Smithing.label>ковка</Smithing.label>
+	<Smithing.description>Позволяет строить наковальни для изготовления металлического оружия и инструментов.</Smithing.description>
+	<ComplexClothing.label>пошив одежды</ComplexClothing.label>
+	<ComplexClothing.description>Позволяет шить сложную одежду типа брюк и ковбойских шляп.</ComplexClothing.description>
+	<Electricity.label>электричество</Electricity.label>
+	<Electricity.description>Создание и использование электроэнергии для приготовления пищи и других простых задач.</Electricity.description>
+	<PassiveCooler.label>passive cooler</PassiveCooler.label>
+	<PassiveCooler.description>Make passive coolers, a way to cool indoor spaces without using electricity.</PassiveCooler.description>
+	<DrugProduction.label>drug production</DrugProduction.label>
+	<DrugProduction.description>The basics of drug preparation and synthesis. Allows creation of the drug lab. Further research is required to make specific drugs.</DrugProduction.description>
+</LanguageData>

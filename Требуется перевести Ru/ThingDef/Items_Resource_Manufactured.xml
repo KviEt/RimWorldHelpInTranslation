@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<HerbalMedicine.label>лекарственные травы</HerbalMedicine.label>
+	<HerbalMedicine.description>Упаковка травяного отвара, обычно изготавливаемого из растений ксеригиума. Слабее промышленной фармацевтики.</HerbalMedicine.description>
+	<Medicine.label>медикаменты</Medicine.label>
+	<Medicine.description>Медперсонал использует медикаменты, чтобы лечить раненых.</Medicine.description>
+	<GlitterworldMedicine.label>передовые медикаменты</GlitterworldMedicine.label>
+	<GlitterworldMedicine.description>Улучшенные медикаменты из высокотехнологичных миров.</GlitterworldMedicine.description>
+	<ArtilleryShell.label>снаряды</ArtilleryShell.label>
+	<ArtilleryShell.description>Для стрельбы из артиллерийских орудий.</ArtilleryShell.description>
+	<Component.label>компонент</Component.label>
+	<Component.description>Различные шестерёнки, конденсаторы, платы, трубки, колёсики, сенсоры, провода, чипы, процессоры и другие электронные и механические детали. Необходимы для сборки сложных механизмов и электроприборов.</Component.description>
+	<Neutroamine.label>neutroamine</Neutroamine.label>
+	<Neutroamine.description>A synthetic precursor chemical. Useless on its own, many drugs require neutroamine as an ingredient.</Neutroamine.description>
+</LanguageData>

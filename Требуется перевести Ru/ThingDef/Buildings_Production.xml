@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<CraftingSpot.label>рабочее место</CraftingSpot.label>
+	<CraftingSpot.description>Место для создания простых вещей, таких как заточки и луки.</CraftingSpot.description>
+	<TableSculpting.label>мастерская скульптора</TableSculpting.label>
+	<TableSculpting.description>Стол, оборудованный для ваяния скульптур.</TableSculpting.description>
+	<TableButcher.label>разделочный стол</TableButcher.label>
+	<TableButcher.description>Тяжёлый стол для разделки туш мёртвых существ на куски сырого мяса.</TableButcher.description>
+	<HandTailoringBench.label>стол портного</HandTailoringBench.label>
+	<HandTailoringBench.description>Стол для ручного пошива одежды. Работает с эффективностью 40% от электрического.</HandTailoringBench.description>
+	<ElectricTailoringBench.label>швейная машинка</ElectricTailoringBench.label>
+	<ElectricTailoringBench.description>Верстак со швейной машиной для быстрого создания одежды. Может использоваться без электроэнергии с эффективностью ручного (40% от запитанного электрического).</ElectricTailoringBench.description>
+	<FueledSmithy.label>кузня (топл.)</FueledSmithy.label>
+	<FueledSmithy.description>Кузня, оборудованная для производства немеханического оружия и инструментов. Нуждается в дереве в качестве топлива.</FueledSmithy.description>
+	<ElectricSmithy.label>электрокузня</ElectricSmithy.label>
+	<ElectricSmithy.description>Работающая от электричества кузня, оборудованная для производства немеханического оружия и инструментов.</ElectricSmithy.description>
+	<TableMachining.label>верстак</TableMachining.label>
+	<TableMachining.description>Стол с инструментами для сборки и разборки механических предметов, таких как оружие или трупы механоидов.</TableMachining.description>
+	<ElectricStove.label>электроплита</ElectricStove.label>
+	<ElectricStove.description>Работающая от электричества плита, оборудованная столешницей для приготовления блюд.</ElectricStove.description>
+	<FueledStove.label>плита (топл.)</FueledStove.label>
+	<FueledStove.description>Простая плита, работающая на сжигаемом дереве, оборудованная столешницей для приготовления блюд.</FueledStove.description>
+	<TableStonecutter.label>камнерезный станок</TableStonecutter.label>
+	<TableStonecutter.description>Рабочий стол, оснащённый для резки кусков породы на каменные блоки.</TableStonecutter.description>
+	<Brewery.label>пивоварня</Brewery.label>
+	<Brewery.description>Рабочий стол, оснащённый всем необходимым для варки пива.</Brewery.description>
+	<ElectricSmelter.label>электроплавильня</ElectricSmelter.label>
+	<ElectricSmelter.description>Извлекает металл из кусков металлолома и других предметов, которые могут содержать металл. Потребляет много энергии.</ElectricSmelter.description>
+	<ComponentAssemblyBench.label>верстак для сборки компонентов</ComponentAssemblyBench.label>
+	<ComponentAssemblyBench.description>Верстак, оборудованный продвинутыми инструментами для сборки компонентов из более простых материалов.</ComponentAssemblyBench.description>
+	<SimpleResearchBench.label>простой верстак учёного</SimpleResearchBench.label>
+	<SimpleResearchBench.description>Стол для научных изысканий, снабжённый простейшими инструментами. Исследователи работают за ним над открытием новых вещей.</SimpleResearchBench.description>
+	<HiTechResearchBench.label>высокотехнологичный верстак учёного</HiTechResearchBench.label>
+	<HiTechResearchBench.description>Исследовательский верстак, укомплектованный компьютерами и электронными измерительными инструментами. Позволяет проводить исследования гораздо быстрее. Требует электричество.</HiTechResearchBench.description>
+	<ElectricCrematorium.label>крематорий (электр.)</ElectricCrematorium.label>
+	<ElectricCrematorium.description>Сжигает трупы. Требует электричесто.</ElectricCrematorium.description>
+	<HydroponicsBasin.label>гидропонная ферма</HydroponicsBasin.label>
+	<HydroponicsBasin.description>Позволяет быстро выращивать растения в искуственной питательной среде. Требует электроэнергию; растения умрут, если её не будет.</HydroponicsBasin.description>
+	<NutrientPasteDispenser.label>дозатор пасты</NutrientPasteDispenser.label>
+	<NutrientPasteDispenser.description>Синтезирует питательную пасту из органического сырья. Требует меньше ингредиентов и времени, чем приготовление пищи, но пасту никто не любит.</NutrientPasteDispenser.description>
+	<Hopper.label>загрузочная воронка</Hopper.label>
+	<Hopper.description>Содержит ресурсы для загрузки в различные аппараты. Например, в дозатор пасты.</Hopper.description>
+	<FueledSmithy.Description>A wood-fueled station equipped for smithing non-mechanical weapons and tools.</FueledSmithy.Description>
+	<TableSculpting.Description>A workbench equipped for artistic sculpting.</TableSculpting.Description>
+	<ElectricStove.Description>An electrically-powered stove with an attached countertop for preparing meals.</ElectricStove.Description>
+	<CraftingSpot.Description>A place for crafting simple things like shivs or bows.</CraftingSpot.Description>
+	<HandTailoringBench.Description>A workbench for tailoring clothes by hand. Works at 40% of the speed of an electric tailoring bench.</HandTailoringBench.Description>
+	<TableButcher.Description>A heavy table for butchering dead creatures into pieces of raw meat.</TableButcher.Description>
+	<ElectricSmelter.Description>Extracts usable metal from slag chunks and other mixed metal items. Consumes a lot of power.</ElectricSmelter.Description>
+	<ElectricTailoringBench.Description>A workbench with a sewing machine for rapid tailoring of clothes. Can work without electricity at 40% of normal speed.</ElectricTailoringBench.Description>
+	<Brewery.Description>A work station with all the equipment needed to brew beer.</Brewery.Description>
+	<FueledStove.Description>A simple wood-fueled stove with an attached countertop for preparing meals.</FueledStove.Description>
+	<ElectricCrematorium.Description>Cremates corpses. Electrically-powered.</ElectricCrematorium.Description>
+	<DeepDrill.label>deep drill</DeepDrill.label>
+	<DeepDrill.description>A deep-crust drilling rig for extracting minerals from deep under the surface. Use a ground-penetrating scanner to detect the resources.</DeepDrill.description>
+	<FermentingBarrel.label>fermenting barrel</FermentingBarrel.label>
+	<FermentingBarrel.description>A barrel for fermenting raw wort into beer.</FermentingBarrel.description>
+	<DrugLab.label>drug lab</DrugLab.label>
+	<DrugLab.Description>A work bench equipped with various containers, heaters, and measurement equipment for producing a variety of drugs.</DrugLab.Description>
+	<TableStonecutter.Description>A work table equipped to cut rough stone into usable blocks.</TableStonecutter.Description>
+	<TableMachining.Description>A work station for assembling and disassembling machinery such as guns or mechanoid corpses.</TableMachining.Description>
+	<ElectricSmithy.Description>An electric-powered station equipped for smithing non-mechanical weapons and tools.</ElectricSmithy.Description>
+</LanguageData>

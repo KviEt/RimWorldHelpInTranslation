@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<WanderConfused.label>блуждает в замешательстве</WanderConfused.label>
+	<WanderConfused.beginLetterLabel>ошарашен</WanderConfused.beginLetterLabel>
+	<WanderConfused.beginLetter>{0} получил нервный срыв и блуждает в замешательстве.</WanderConfused.beginLetter>
+	<WanderConfused.recoveryMessage>{0} оправился и возвращается.</WanderConfused.recoveryMessage>
+	<WanderConfused.baseInspectLine>Душевное состояние: блуждает туда-сюда</WanderConfused.baseInspectLine>
+	<PanicFlee.label>спасается бегством</PanicFlee.label>
+	<PanicFlee.beginLetterLabel>трус</PanicFlee.beginLetterLabel>
+	<PanicFlee.beginLetter>{0} бежит в панике.</PanicFlee.beginLetter>
+	<PanicFlee.recoveryMessage>{0} больше не паникует.</PanicFlee.recoveryMessage>
+	<PanicFlee.baseInspectLine>Душевное состояние: спасается бегством</PanicFlee.baseInspectLine>
+	<Manhunter.label>жажда крови</Manhunter.label>
+	<Manhunter.beginLetterLabel>убийца</Manhunter.beginLetterLabel>
+	<Manhunter.beginLetter>{0} убивает всех без разбору!</Manhunter.beginLetter>
+	<Manhunter.recoveryMessage>{0} успокоился, жажда крови прошла.</Manhunter.recoveryMessage>
+	<Manhunter.baseInspectLine>Душевное состояние: жажда крови</Manhunter.baseInspectLine>
+	<SocialFighting.label>перебранка</SocialFighting.label>
+	<SocialFighting.recoveryMessage>{0} и {1} больше не бранятся.</SocialFighting.recoveryMessage>
+	<SocialFighting.baseInspectLine>Душевное состояние: дерётся</SocialFighting.baseInspectLine>
+	<ManhunterPermanent.label>manhunter</ManhunterPermanent.label>
+	<ManhunterPermanent.beginLetterLabel>manhunter</ManhunterPermanent.beginLetterLabel>
+	<ManhunterPermanent.beginLetter>{0} has become a manhunter!</ManhunterPermanent.beginLetter>
+	<ManhunterPermanent.recoveryMessage>{0}'s manhunting bloodlust has come to an end.</ManhunterPermanent.recoveryMessage>
+	<ManhunterPermanent.baseInspectLine>Maddened: Manhunter</ManhunterPermanent.baseInspectLine>
+</LanguageData>

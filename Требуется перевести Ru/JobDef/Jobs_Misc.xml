@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<Goto.reportString>идёт.</Goto.reportString>
+	<GotoSafeTemperature.reportString>ищет комфортную температуру.</GotoSafeTemperature.reportString>
+	<GotoWander.reportString>гуляет.</GotoWander.reportString>
+	<Wait.reportString>стоит.</Wait.reportString>
+	<WaitDowned.reportString>сражён.</WaitDowned.reportString>
+	<WaitSafeTemperature.reportString>ожидает в комфортной температуре.</WaitSafeTemperature.reportString>
+	<WaitWander.reportString>дышит свежим воздухом.</WaitWander.reportString>
+	<WaitCombat.reportString>ищет цель.</WaitCombat.reportString>
+	<AttackStatic.reportString>атакует TargetA.</AttackStatic.reportString>
+	<AttackMelee.reportString>бьёт TargetA.</AttackMelee.reportString>
+	<SocialFight.reportString>бранится с TargetA.</SocialFight.reportString>
+	<Equip.reportString>вооружается TargetA.</Equip.reportString>
+	<TakeInventory.reportString>подбирает TargetA.</TakeInventory.reportString>
+	<Wear.reportString>надевает TargetA.</Wear.reportString>
+	<RemoveApparel.reportString>снимает TargetA.</RemoveApparel.reportString>
+	<Strip.reportString>раздевает TargetA.</Strip.reportString>
+	<Open.reportString>открывает TargetA.</Open.reportString>
+	<RearmTrap.reportString>перезаряжает TargetA.</RearmTrap.reportString>
+	<Refuel.reportString>перезаправляет TargetA.</Refuel.reportString>
+	<ManTurret.reportString>работает с орудием.</ManTurret.reportString>
+	<EnterCryptosleepCasket.reportString>залезает в контейнер крипто-сна.</EnterCryptosleepCasket.reportString>
+	<UseNeurotrainer.reportString>использует нейротренер.</UseNeurotrainer.reportString>
+	<UseArtifact.reportString>активирует артефакт.</UseArtifact.reportString>
+	<TriggerFirefoamPopper.reportString>активирует хлопушку с пожарной пеной.</TriggerFirefoamPopper.reportString>
+	<ClearSnow.reportString>чистит снег.</ClearSnow.reportString>
+	<Vomit.reportString>рвота.</Vomit.reportString>
+	<Flick.reportString>переключает питание.</Flick.reportString>
+	<TradeWithPawn.reportString>торгует с TargetA.</TradeWithPawn.reportString>
+	<FleeAndCower.reportString>убегает.</FleeAndCower.reportString>
+	<Ignite.reportString>поджигает TargetA.</Ignite.reportString>
+	<BeatFire.reportString>сбивает огонь.</BeatFire.reportString>
+	<ExtinguishSelf.reportString>тушит себя.</ExtinguishSelf.reportString>
+	<Ingest.reportString>поглощает TargetA.</Ingest.reportString>
+	<LayDown.reportString>ложится.</LayDown.reportString>
+	<Lovin.reportString>любит.</Lovin.reportString>
+	<FillFermentingBarrel.reportString>filling TargetA.</FillFermentingBarrel.reportString>
+	<TakeBeerOutOfFermentingBarrel.reportString>taking beer out of TargetA.</TakeBeerOutOfFermentingBarrel.reportString>
+</LanguageData>
