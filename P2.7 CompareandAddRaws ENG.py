@@ -160,7 +160,7 @@ def findAbstract(root, fileXML):
             if(not parentName):
                 parentName = element.get("parentName")
             if(abstract or parentName):
-                findText(element, None, 0, fileXML, name, 1, className, parentName, abstract)
+                findText(element, "None", 0, fileXML, name, 1, className, parentName, abstract)
         else:
             findAbstract(element, fileXML)
 
