@@ -44,7 +44,7 @@ def addElement(fileXML, elementText, text, nameDef, addTo):
         
 def addClass(className ,defName, parentName, address, text, fileXML, abstract):
     address = address.lower()
-    if("subSounds" not in address):
+    if("subsounds" not in address):
         if(defName not in allDefClass):
             allDefClass[defName] = {}
         allDef = allDefClass[defName]

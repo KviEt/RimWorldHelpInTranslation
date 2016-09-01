@@ -16,7 +16,7 @@ tagText = ["label", "rulesStrings", "description", "gerund", "verb", "deathMessa
       "endMessage", "adjective", "reportString", "letterLabel", "letterText", "graphLabelY", "letter", "oldLabel", "labelSolidTended",
       "labelSolidTendedWell", "labelTendedInner", "labelTendedWellInner", "destroyedLabel", "labelTended", "labelTendedWell",
       "destroyedOutLabel", "destroyedLabel", "discoverLetterText", "discoverLetterLabel", "leaderTitle", "helpTexts", "rulesStrings",
-           "instantlyOldLabel", "useLabel", "ingestCommandString", "ingestReportString", "Description", "helpText", "rejectInputMessage", "onMapInstruction"
+           "instantlyOldLabel", "useLabel", "ingestCommandString", "ingestReportString", "helpText", "rejectInputMessage", "onMapInstruction"
           ]
 allText = {}
 allTextValue = {}
@@ -25,8 +25,15 @@ allDefClass = {}
 XMLFiles = {}
 XMLNewFiles = {}
 
+i = 0
+countTags = len(tagText)
+while(i < countTags):
+    tagText[i] = tagText[i].lower()
+    i = i + 1
+
 def addElement(fileXML, elementText, text, nameDef, addTo):
-    if("subSounds" not in elementText):
+    elementText = elementText.lower()
+    if("subsounds" not in elementText):
         if(nameDef not in addTo):
             addTo[nameDef] = []
         elementsList = addTo[nameDef]
@@ -35,7 +42,8 @@ def addElement(fileXML, elementText, text, nameDef, addTo):
             allTextValue[elementText] = (text, fileXML)
         
 def addClass(className ,defName, parentName, address, text, fileXML, abstract):
-    if("subSounds" not in address):
+    address = address.lower()
+    if("subsounds" not in address):
         if(defName not in allDefClass):
             allDefClass[defName] = {}
         allDef = allDefClass[defName]
@@ -47,7 +55,7 @@ def addClass(className ,defName, parentName, address, text, fileXML, abstract):
 
 def findText(element, tagPath, li, fileXML, nameDef, stage, className, parentName, abstract):
     for subElement in element:
-        if(subElement.tag in tagText):
+        if(subElement.tag.lower() in tagText):
             countSubElement = list(subElement)
             if(countSubElement):
                 i = 0
@@ -179,7 +187,7 @@ def compare(path, nameDef, fileXML):
         raise err
     root = tree.getroot()
     for element in root:
-        nameElement = element.tag
+        nameElement = element.tag.lower()
         if(nameElement in allText[nameDef]):
             allText[nameDef].remove(nameElement)
         else:
@@ -203,21 +211,6 @@ def findXMLTranslation(path, nameDef):
     for fileXML in listOfDir:
         if ".xml" in fileXML:
             compare(os.path.join(path, fileXML), nameDef, fileXML)          
-
-def proofFile(path):
-    tree = ET.parse(path)
-    root = tree.getroot()
-    element = root.find("ThoughtDef/stages")
-    i = 0
-    for sub in element:
-        label = sub.find("label")
-        print sub.tag == "li"
-        print sub.tag
-        if(label is not None):
-            print label.text
-        print i
-        i = i + 1
-        
 
 def readXMLORG(funcSearch):
     listOfDir = os.listdir(pathOriginal)
@@ -329,6 +322,7 @@ for defName in allDefClass:
             for element in listOfVars:
                 if(element[1]):
                     address = className + "." +element[0]
+                    address = address.lower()
                     elementList.append(address) 
                     allTextValue[address] = (element[1], fileXML)
 
