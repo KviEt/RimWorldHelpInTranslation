@@ -5,6 +5,17 @@ from xml.etree.ElementTree import ParseError
 import re
 import codecs
 
+class CParser(ET.XMLTreeBuilder):
+   def __init__(self, html=0, target=None, encoding=None):
+       ET.XMLTreeBuilder.__init__(self, html=0, target=None, encoding=None)
+       # assumes ElementTree 1.3.0
+       self._parser.CommentHandler = self.handle_comment
+
+   def handle_comment(self, data):
+       self._target.start(ET.Comment, {})
+       self._target.data(data)
+       self._target.end(ET.Comment)
+
 pathOriginal = r".\Defs"
 pathTranslation = r".\DefInjected"
 pathTranslationOrg = r".\DefInjectedRaws"
@@ -382,7 +393,7 @@ for defName in XMLNewFiles.keys():
     for nameFile in XMLNewFiles[defName].keys():
         if(defName in XMLFiles and nameFile in XMLFiles[defName]):
             XMLPath = XMLFiles[defName][nameFile]
-            XMLParser = ET.XMLParser(encoding='utf-8')
+            XMLParser = CParser(encoding='utf-8')
             tree = ET.parse(XMLPath, XMLParser)
             root = tree.getroot()
         else:
@@ -402,8 +413,15 @@ for defName in XMLNewFiles.keys():
         xml.write(u"<?xml version=\"1.0\" encoding=\"utf-8\" ?>\n")
         xml.write(u"<%s>\n"%root.tag)
         for element in root:
-            xml.write(u"\n\t<%s>"%element.tag)
+            tag = element.tag
+            if(tag is ET.Comment):
+               xml.write(u"\n\t<!--")
+            else:
+               xml.write(u"\n\t<%s>"%tag)
             xml.write(element.text)
-            xml.write(u"</%s>\n"%element.tag)
+            if(tag is ET.Comment):
+               xml.write(u"-->\n")
+            else:
+               xml.write(u"</%s>\n"%tag)
         xml.write(u"\n</%s>\n"%root.tag)
         xml.close()
