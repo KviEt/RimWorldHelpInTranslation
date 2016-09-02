@@ -33,8 +33,7 @@ while(i < countTags):
     i = i + 1
 
 def addElement(fileXML, elementText, text, nameDef, addTo):
-    elementText = elementText.lower()
-    if("subsounds" not in elementText):
+    if("subsounds" not in elementText.lower()):
         if(nameDef not in addTo):
             addTo[nameDef] = []
         elementsList = addTo[nameDef]
@@ -43,8 +42,7 @@ def addElement(fileXML, elementText, text, nameDef, addTo):
             allTextValue[elementText] = (text, fileXML)
         
 def addClass(className ,defName, parentName, address, text, fileXML, abstract):
-    address = address.lower()
-    if("subsounds" not in address):
+    if("subsounds" not in address.lower()):
         if(defName not in allDefClass):
             allDefClass[defName] = {}
         allDef = allDefClass[defName]
@@ -56,14 +54,15 @@ def addClass(className ,defName, parentName, address, text, fileXML, abstract):
 
 def findText(element, tagPath, li, fileXML, nameDef, stage, className, parentName, abstract):
     for subElement in element:
-        if(subElement.tag.lower() in tagText):
+        label = subElement.tag.lower()
+        if(label in tagText):
             countSubElement = list(subElement)
             if(countSubElement):
                 i = 0
                 if(tagPath):
-                    tagPathSub = tagPath + "." + subElement.tag
+                    tagPathSub = tagPath + "." + label
                 else:
-                    tagPathSub = subElement.tag
+                    tagPathSub = label
                 for sub2Element in subElement:
                     text = sub2Element.text
                     if(stage == 1):
@@ -76,12 +75,12 @@ def findText(element, tagPath, li, fileXML, nameDef, stage, className, parentNam
                 text = subElement.text
                 if(stage == 1):
                     if(tagPath):
-                        address = tagPath + "." + subElement.tag
+                        address = tagPath + "." + label
                     else:
-                        address = subElement.tag
+                        address = label
                     addClass(className ,nameDef, parentName, address, text, fileXML, abstract)
                 if(text and stage == 2):            
-                    addElement(fileXML, tagPath + "." + subElement.tag, text, nameDef, allText)
+                    addElement(fileXML, tagPath + "." + label, text, nameDef, allText)
         else:
             listElement = list(subElement)
             isli = subElement.tag == "li"
@@ -99,9 +98,9 @@ def findText(element, tagPath, li, fileXML, nameDef, stage, className, parentNam
                         findText(subElement, (str(li))[:], 0, fileXML, nameDef, stage, className, parentName, abstract)
                 else:
                     if(tagPath):
-                        findText(subElement, (tagPath + "." + subElement.tag)[:], 0, fileXML, nameDef, stage, className, parentName, abstract)
+                        findText(subElement, (tagPath + "." + label)[:], 0, fileXML, nameDef, stage, className, parentName, abstract)
                     else:
-                        findText(subElement, (subElement.tag)[:], 0, fileXML, nameDef, stage, className, parentName, abstract)
+                        findText(subElement, (label)[:], 0, fileXML, nameDef, stage, className, parentName, abstract)
             if(isli):
                 li = li + 1
             text = subElement.text
@@ -188,7 +187,14 @@ def compare(path, nameDef, fileXML):
         raise err
     root = tree.getroot()
     for element in root:
-        nameElement = element.tag.lower()
+        defName = re.compile(u"[aA-zZ]+")
+        result = defName.match(element.tag)
+        if(not result):
+            print u"Warning! defName can't be empty"
+            continue
+        defNameTag = result.group(0)
+        countSymbol = len(defNameTag)
+        nameElement = element.tag[:countSymbol] + element.tag[countSymbol:].lower()
         if(nameElement in allText[nameDef]):
             allText[nameDef].remove(nameElement)
         else:
@@ -322,8 +328,7 @@ for defName in allDefClass:
             fileXML = allDef[className][2][0][2]
             for element in listOfVars:
                 if(element[1]):
-                    address = className + "." +element[0]
-                    address = address.lower()
+                    address = className + "." + element[0].lower()
                     elementList.append(address) 
                     allTextValue[address] = (element[1], fileXML)
 
