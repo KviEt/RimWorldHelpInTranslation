@@ -1,8 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
+
 	<Elephant.label>elephant</Elephant.label>
-	<Elephant.lifeStages.0.label>elephant calf</Elephant.lifeStages.0.label>
+
+	<Elephant.lifestages.0.label>elephant calf</Elephant.lifestages.0.label>
+
 	<Megatherium.label>megatherium</Megatherium.label>
+
 	<Thrumbo.label>thrumbo</Thrumbo.label>
-	<Thrumbo.lifeStages.0.label>thrumbo calf</Thrumbo.lifeStages.0.label>
+
+	<Thrumbo.lifestages.0.label>thrumbo calf</Thrumbo.lifestages.0.label>
+
 </LanguageData>

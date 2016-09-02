@@ -1,19 +1,36 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
+
 	<Euthanize.label>euthanize</Euthanize.label>
+
 	<Euthanize.description>Euthanizes.</Euthanize.description>
-	<Euthanize.jobString>Euthanizing.</Euthanize.jobString>
+
+	<Euthanize.jobstring>Euthanizing.</Euthanize.jobstring>
+
 	<ExciseCarcinoma.label>excise carcinoma</ExciseCarcinoma.label>
+
 	<ExciseCarcinoma.description>Excises carcinoma.</ExciseCarcinoma.description>
-	<ExciseCarcinoma.jobString>Excising carcinoma.</ExciseCarcinoma.jobString>
-	<ExciseCarcinoma.successfullyRemovedHediffMessage>{0} has successfully excised {1}'s carcinoma.</ExciseCarcinoma.successfullyRemovedHediffMessage>
+
+	<ExciseCarcinoma.jobstring>Excising carcinoma.</ExciseCarcinoma.jobstring>
+
+	<ExciseCarcinoma.successfullyremovedhediffmessage>{0} has successfully excised {1}'s carcinoma.</ExciseCarcinoma.successfullyremovedhediffmessage>
+
 	<RemoveBodyPart.label>remove part</RemoveBodyPart.label>
+
 	<RemoveBodyPart.description>Removes body part.</RemoveBodyPart.description>
-	<RemoveBodyPart.jobString>Removing body part.</RemoveBodyPart.jobString>
+
+	<RemoveBodyPart.jobstring>Removing body part.</RemoveBodyPart.jobstring>
+
 	<RemoveMechanoidBodyPart.label>remove part</RemoveMechanoidBodyPart.label>
+
 	<RemoveMechanoidBodyPart.description>Removes body part.</RemoveMechanoidBodyPart.description>
-	<RemoveMechanoidBodyPart.jobString>Removing body part.</RemoveMechanoidBodyPart.jobString>
+
+	<RemoveMechanoidBodyPart.jobstring>Removing body part.</RemoveMechanoidBodyPart.jobstring>
+
 	<ShutDownMechanoid.label>shut down</ShutDownMechanoid.label>
+
 	<ShutDownMechanoid.description>Shuts down.</ShutDownMechanoid.description>
-	<ShutDownMechanoid.jobString>Shutting down.</ShutDownMechanoid.jobString>
+
+	<ShutDownMechanoid.jobstring>Shutting down.</ShutDownMechanoid.jobstring>
+
 </LanguageData>

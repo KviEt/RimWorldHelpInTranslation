@@ -1,10 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-	<NamerPersonTribal.rulePack.rulesStrings.0>name->[tribalword] '[badassanimal]' [tribalword]</NamerPersonTribal.rulePack.rulesStrings.0>
-	<NamerPersonTribal.rulePack.rulesStrings.1>name->[color] [tribalword]</NamerPersonTribal.rulePack.rulesStrings.1>
-	<NamerPersonTribal.rulePack.rulesStrings.2>name->[tribalword] [tribalword]</NamerPersonTribal.rulePack.rulesStrings.2>
-	<NamerPersonTribal.rulePack.rulesStrings.3>name->[tribalword] [tribalword]</NamerPersonTribal.rulePack.rulesStrings.3>
-	<NamerPersonTribal.rulePack.rulesStrings.4>name->[tribalword] [animal]</NamerPersonTribal.rulePack.rulesStrings.4>
-	<NamerPersonTribal.rulePack.rulesStrings.5>name->[animal] [tribalword]</NamerPersonTribal.rulePack.rulesStrings.5>
-	<NamerPersonTribal.rulePack.rulesStrings.6>name->[color] [animal]</NamerPersonTribal.rulePack.rulesStrings.6>
+
+	<NamerPersonTribal.rulepack.rulesstrings.0>name->[tribalword] '[badassanimal]' [tribalword]</NamerPersonTribal.rulepack.rulesstrings.0>
+
+	<NamerPersonTribal.rulepack.rulesstrings.1>name->[color] [tribalword]</NamerPersonTribal.rulepack.rulesstrings.1>
+
+	<NamerPersonTribal.rulepack.rulesstrings.2>name->[tribalword] [tribalword]</NamerPersonTribal.rulepack.rulesstrings.2>
+
+	<NamerPersonTribal.rulepack.rulesstrings.3>name->[tribalword] [tribalword]</NamerPersonTribal.rulepack.rulesstrings.3>
+
+	<NamerPersonTribal.rulepack.rulesstrings.4>name->[tribalword] [animal]</NamerPersonTribal.rulepack.rulesstrings.4>
+
+	<NamerPersonTribal.rulepack.rulesstrings.5>name->[animal] [tribalword]</NamerPersonTribal.rulepack.rulesstrings.5>
+
+	<NamerPersonTribal.rulepack.rulesstrings.6>name->[color] [animal]</NamerPersonTribal.rulepack.rulesstrings.6>
+
 </LanguageData>

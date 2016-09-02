@@ -1,11 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
+
 	<Crush.label>crush</Crush.label>
+
 	<Cut.label>cut</Cut.label>
+
 	<Scratch.label>scratch</Scratch.label>
+
 	<Bite.label>bite</Bite.label>
+
 	<Burn.label>burn</Burn.label>
+
 	<SurgicalCut.label>surgical cut</SurgicalCut.label>
+
 	<Stab.label>stab</Stab.label>
+
 	<Frostbite.label>frostbite</Frostbite.label>
+
 </LanguageData>

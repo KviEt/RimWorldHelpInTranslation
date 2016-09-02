@@ -1,25 +1,48 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-	<Crush.deathMessage>{0} has been crushed to death.</Crush.deathMessage>
-	<Cut.deathMessage>{0} has been cut to death.</Cut.deathMessage>
+
+	<Crush.deathmessage>{0} has been crushed to death.</Crush.deathmessage>
+
+	<Cut.deathmessage>{0} has been cut to death.</Cut.deathmessage>
+
 	<Bomb.label>bomb</Bomb.label>
-	<Bomb.deathMessage>{0} has died in an explosion.</Bomb.deathMessage>
+
+	<Bomb.deathmessage>{0} has died in an explosion.</Bomb.deathmessage>
+
 	<ExecutionCut.label>execution cut</ExecutionCut.label>
-	<ExecutionCut.deathMessage>{0} has been executed.</ExecutionCut.deathMessage>
+
+	<ExecutionCut.deathmessage>{0} has been executed.</ExecutionCut.deathmessage>
+
 	<Bullet.label>bullet</Bullet.label>
-	<Bullet.deathMessage>{0} has been shot to death.</Bullet.deathMessage>
-	<Scratch.deathMessage>{0} has been torn to death.</Scratch.deathMessage>
-	<Bite.deathMessage>{0} has been bitten to death.</Bite.deathMessage>
-	<Burn.deathMessage>{0} has burned to death.</Burn.deathMessage>
-	<ToxicBite.deathMessage>{0} has been bitten to death.</ToxicBite.deathMessage>
+
+	<Bullet.deathmessage>{0} has been shot to death.</Bullet.deathmessage>
+
+	<Scratch.deathmessage>{0} has been torn to death.</Scratch.deathmessage>
+
+	<Bite.deathmessage>{0} has been bitten to death.</Bite.deathmessage>
+
+	<Burn.deathmessage>{0} has burned to death.</Burn.deathmessage>
+
+	<ToxicBite.deathmessage>{0} has been bitten to death.</ToxicBite.deathmessage>
+
 	<ToxicBite.label>toxic bite</ToxicBite.label>
-	<SurgicalCut.deathMessage>{0} has died during surgery.</SurgicalCut.deathMessage>
-	<Stab.deathMessage>{0} has been stabbed to death.</Stab.deathMessage>
+
+	<SurgicalCut.deathmessage>{0} has died during surgery.</SurgicalCut.deathmessage>
+
+	<Stab.deathmessage>{0} has been stabbed to death.</Stab.deathmessage>
+
 	<Arrow.label>arrow</Arrow.label>
-	<Arrow.deathMessage>{0} has been shot to death.</Arrow.deathMessage>
-	<Frostbite.deathMessage>{0} has succumbed to frostbite.</Frostbite.deathMessage>
+
+	<Arrow.deathmessage>{0} has been shot to death.</Arrow.deathmessage>
+
+	<Frostbite.deathmessage>{0} has succumbed to frostbite.</Frostbite.deathmessage>
+
 	<Flame.label>flame</Flame.label>
-	<Flame.deathMessage>{0} has burned to death.</Flame.deathMessage>
+
+	<Flame.deathmessage>{0} has burned to death.</Flame.deathmessage>
+
 	<Blunt.label>blunt</Blunt.label>
-	<Blunt.deathMessage>{0} has been beaten to death.</Blunt.deathMessage>
+
+	<Blunt.deathmessage>{0} has been beaten to death.</Blunt.deathmessage>
+
 </LanguageData>

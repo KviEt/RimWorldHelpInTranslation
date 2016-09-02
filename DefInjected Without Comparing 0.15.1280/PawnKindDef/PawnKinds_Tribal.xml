@@ -1,7 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
+
 	<TribalArcher.label>archer</TribalArcher.label>
+
 	<TribalWarrior.label>warrior</TribalWarrior.label>
+
 	<TribalTrader.label>trader</TribalTrader.label>
+
 	<TribalChief.label>chief</TribalChief.label>
+
 </LanguageData>

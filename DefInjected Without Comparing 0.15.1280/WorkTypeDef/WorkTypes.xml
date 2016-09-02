@@ -1,108 +1,214 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-	<Firefighter.labelShort>Firefight</Firefighter.labelShort>
-	<Firefighter.pawnLabel>Firefighter</Firefighter.pawnLabel>
-	<Firefighter.gerundLabel>Firefighting</Firefighter.gerundLabel>
+
+	<Firefighter.labelshort>Firefight</Firefighter.labelshort>
+
+	<Firefighter.pawnlabel>Firefighter</Firefighter.pawnlabel>
+
+	<Firefighter.gerundlabel>Firefighting</Firefighter.gerundlabel>
+
 	<Firefighter.description>Extinguish fires in the colony.</Firefighter.description>
+
 	<Firefighter.verb>Extinguish</Firefighter.verb>
-	<PatientEmergency.labelShort>Patient</PatientEmergency.labelShort>
-	<PatientEmergency.pawnLabel>Patient</PatientEmergency.pawnLabel>
-	<PatientEmergency.gerundLabel>Patienting</PatientEmergency.gerundLabel>
+
+	<PatientEmergency.labelshort>Patient</PatientEmergency.labelshort>
+
+	<PatientEmergency.pawnlabel>Patient</PatientEmergency.pawnlabel>
+
+	<PatientEmergency.gerundlabel>Patienting</PatientEmergency.gerundlabel>
+
 	<PatientEmergency.description>Go to a medical bed for treatment if you have an immediately life-threatening health condition.</PatientEmergency.description>
+
 	<PatientEmergency.verb>Become patient</PatientEmergency.verb>
-	<Doctor.labelShort>Doctor</Doctor.labelShort>
-	<Doctor.pawnLabel>Doctor</Doctor.pawnLabel>
-	<Doctor.gerundLabel>Doctoring</Doctor.gerundLabel>
+
+	<Doctor.labelshort>Doctor</Doctor.labelshort>
+
+	<Doctor.pawnlabel>Doctor</Doctor.pawnlabel>
+
+	<Doctor.gerundlabel>Doctoring</Doctor.gerundlabel>
+
 	<Doctor.description>Treat the sick, bring them food, cheer them up, and perform assigned surgeries. Doctors will care for both colonists and prisoners.</Doctor.description>
+
 	<Doctor.verb>Care for</Doctor.verb>
-	<PatientBedRest.labelShort>Bed rest</PatientBedRest.labelShort>
-	<PatientBedRest.pawnLabel>Bed rester</PatientBedRest.pawnLabel>
-	<PatientBedRest.gerundLabel>Resting in bed</PatientBedRest.gerundLabel>
+
+	<PatientBedRest.labelshort>Bed rest</PatientBedRest.labelshort>
+
+	<PatientBedRest.pawnlabel>Bed rester</PatientBedRest.pawnlabel>
+
+	<PatientBedRest.gerundlabel>Resting in bed</PatientBedRest.gerundlabel>
+
 	<PatientBedRest.description>Rest in bed to recuperate from not-immediately-life-threatening medical problems.</PatientBedRest.description>
+
 	<PatientBedRest.verb>Become patient</PatientBedRest.verb>
-	<Flicker.labelShort>Flick</Flicker.labelShort>
-	<Flicker.pawnLabel>Flicker</Flicker.pawnLabel>
-	<Flicker.gerundLabel>Flicking</Flicker.gerundLabel>
+
+	<Flicker.labelshort>Flick</Flicker.labelshort>
+
+	<Flicker.pawnlabel>Flicker</Flicker.pawnlabel>
+
+	<Flicker.gerundlabel>Flicking</Flicker.gerundlabel>
+
 	<Flicker.description>Flick switches. For example, when you designate toggling power on a turret, a flicker must manually flick it to toggle the power.</Flicker.description>
+
 	<Flicker.verb>Flick</Flicker.verb>
-	<Warden.labelShort>Warden</Warden.labelShort>
-	<Warden.pawnLabel>Warden</Warden.pawnLabel>
-	<Warden.gerundLabel>Wardening</Warden.gerundLabel>
+
+	<Warden.labelshort>Warden</Warden.labelshort>
+
+	<Warden.pawnlabel>Warden</Warden.pawnlabel>
+
+	<Warden.gerundlabel>Wardening</Warden.gerundlabel>
+
 	<Warden.description>Manage, feed, chat with, and recruit prisoners.</Warden.description>
+
 	<Warden.verb>Handle</Warden.verb>
-	<Handling.labelShort>Handle</Handling.labelShort>
-	<Handling.pawnLabel>Handler</Handling.pawnLabel>
-	<Handling.gerundLabel>Handling</Handling.gerundLabel>
+
+	<Handling.labelshort>Handle</Handling.labelshort>
+
+	<Handling.pawnlabel>Handler</Handling.pawnlabel>
+
+	<Handling.gerundlabel>Handling</Handling.gerundlabel>
+
 	<Handling.description>Tame, train, harvest resources from and slaughter animals.</Handling.description>
+
 	<Handling.verb>Handle</Handling.verb>
-	<Cooking.labelShort>Cook</Cooking.labelShort>
-	<Cooking.pawnLabel>Cook</Cooking.pawnLabel>
-	<Cooking.gerundLabel>Cooking</Cooking.gerundLabel>
+
+	<Cooking.labelshort>Cook</Cooking.labelshort>
+
+	<Cooking.pawnlabel>Cook</Cooking.pawnlabel>
+
+	<Cooking.gerundlabel>Cooking</Cooking.gerundlabel>
+
 	<Cooking.description>Prepare meals and butcher meat.</Cooking.description>
+
 	<Cooking.verb>Cook</Cooking.verb>
-	<Hunting.labelShort>Hunt</Hunting.labelShort>
-	<Hunting.pawnLabel>Hunter</Hunting.pawnLabel>
-	<Hunting.gerundLabel>Hunting</Hunting.gerundLabel>
+
+	<Hunting.labelshort>Hunt</Hunting.labelshort>
+
+	<Hunting.pawnlabel>Hunter</Hunting.pawnlabel>
+
+	<Hunting.gerundlabel>Hunting</Hunting.gerundlabel>
+
 	<Hunting.description>Kill animals which are designated to be hunted.</Hunting.description>
+
 	<Hunting.verb>Hunt</Hunting.verb>
-	<Construction.labelShort>Construct</Construction.labelShort>
-	<Construction.pawnLabel>Constructor</Construction.pawnLabel>
-	<Construction.gerundLabel>Constructing</Construction.gerundLabel>
+
+	<Construction.labelshort>Construct</Construction.labelshort>
+
+	<Construction.pawnlabel>Constructor</Construction.pawnlabel>
+
+	<Construction.gerundlabel>Constructing</Construction.gerundlabel>
+
 	<Construction.description>Build things that you've designated.</Construction.description>
+
 	<Construction.verb>Construct</Construction.verb>
-	<Repair.labelShort>Repair</Repair.labelShort>
-	<Repair.pawnLabel>Repairer</Repair.pawnLabel>
-	<Repair.gerundLabel>Repairing</Repair.gerundLabel>
+
+	<Repair.labelshort>Repair</Repair.labelshort>
+
+	<Repair.pawnlabel>Repairer</Repair.pawnlabel>
+
+	<Repair.gerundlabel>Repairing</Repair.gerundlabel>
+
 	<Repair.description>Fix damaged or broken-down buildings.</Repair.description>
+
 	<Repair.verb>Repair</Repair.verb>
-	<Growing.labelShort>Grow</Growing.labelShort>
-	<Growing.pawnLabel>Grower</Growing.pawnLabel>
-	<Growing.gerundLabel>Growing</Growing.gerundLabel>
+
+	<Growing.labelshort>Grow</Growing.labelshort>
+
+	<Growing.pawnlabel>Grower</Growing.pawnlabel>
+
+	<Growing.gerundlabel>Growing</Growing.gerundlabel>
+
 	<Growing.description>Plant seeds and harvest grown crops.</Growing.description>
+
 	<Growing.verb>Grow</Growing.verb>
-	<Mining.labelShort>Mine</Mining.labelShort>
-	<Mining.pawnLabel>Miner</Mining.pawnLabel>
-	<Mining.gerundLabel>Mining</Mining.gerundLabel>
+
+	<Mining.labelshort>Mine</Mining.labelshort>
+
+	<Mining.pawnlabel>Miner</Mining.pawnlabel>
+
+	<Mining.gerundlabel>Mining</Mining.gerundlabel>
+
 	<Mining.description>Dig out areas which are have designated for mining.</Mining.description>
+
 	<Mining.verb>Mine</Mining.verb>
-	<PlantCutting.labelShort>Plant cut</PlantCutting.labelShort>
-	<PlantCutting.pawnLabel>Plant cutter</PlantCutting.pawnLabel>
-	<PlantCutting.gerundLabel>Plant cutting</PlantCutting.gerundLabel>
+
+	<PlantCutting.labelshort>Plant cut</PlantCutting.labelshort>
+
+	<PlantCutting.pawnlabel>Plant cutter</PlantCutting.pawnlabel>
+
+	<PlantCutting.gerundlabel>Plant cutting</PlantCutting.gerundlabel>
+
 	<PlantCutting.description>Cut or harvest plants as designated.</PlantCutting.description>
+
 	<PlantCutting.verb>Cut</PlantCutting.verb>
-	<Smithing.labelShort>Smith</Smithing.labelShort>
-	<Smithing.pawnLabel>Smith</Smithing.pawnLabel>
-	<Smithing.gerundLabel>Smithing</Smithing.gerundLabel>
+
+	<Smithing.labelshort>Smith</Smithing.labelshort>
+
+	<Smithing.pawnlabel>Smith</Smithing.pawnlabel>
+
+	<Smithing.gerundlabel>Smithing</Smithing.gerundlabel>
+
 	<Smithing.description>Create weapons and tools from raw materials, either as a blacksmith or by machining.</Smithing.description>
+
 	<Smithing.verb>Smith at</Smithing.verb>
-	<Tailoring.labelShort>Tailor</Tailoring.labelShort>
-	<Tailoring.pawnLabel>Tailor</Tailoring.pawnLabel>
-	<Tailoring.gerundLabel>Tailoring</Tailoring.gerundLabel>
+
+	<Tailoring.labelshort>Tailor</Tailoring.labelshort>
+
+	<Tailoring.pawnlabel>Tailor</Tailoring.pawnlabel>
+
+	<Tailoring.gerundlabel>Tailoring</Tailoring.gerundlabel>
+
 	<Tailoring.description>Create apparel from raw materials.</Tailoring.description>
+
 	<Tailoring.verb>Tailor at</Tailoring.verb>
-	<Art.labelShort>Art</Art.labelShort>
-	<Art.pawnLabel>Artist</Art.pawnLabel>
-	<Art.gerundLabel>Art</Art.gerundLabel>
+
+	<Art.labelshort>Art</Art.labelshort>
+
+	<Art.pawnlabel>Artist</Art.pawnlabel>
+
+	<Art.gerundlabel>Art</Art.gerundlabel>
+
 	<Art.description>Create beautiful works of art from raw materials.</Art.description>
+
 	<Art.verb>Do art at</Art.verb>
-	<Crafting.labelShort>Craft</Crafting.labelShort>
-	<Crafting.pawnLabel>Crafter</Crafting.pawnLabel>
-	<Crafting.gerundLabel>Crafting</Crafting.gerundLabel>
+
+	<Crafting.labelshort>Craft</Crafting.labelshort>
+
+	<Crafting.pawnlabel>Crafter</Crafting.pawnlabel>
+
+	<Crafting.gerundlabel>Crafting</Crafting.gerundlabel>
+
 	<Crafting.description>Do general low-skilled labor at work stations. This includes stonecutting, smelting, and more.</Crafting.description>
+
 	<Crafting.verb>Craft at</Crafting.verb>
-	<Hauling.labelShort>Haul</Hauling.labelShort>
-	<Hauling.pawnLabel>Hauler</Hauling.pawnLabel>
-	<Hauling.gerundLabel>Hauling</Hauling.gerundLabel>
+
+	<Hauling.labelshort>Haul</Hauling.labelshort>
+
+	<Hauling.pawnlabel>Hauler</Hauling.pawnlabel>
+
+	<Hauling.gerundlabel>Hauling</Hauling.gerundlabel>
+
 	<Hauling.description>Carry things to where they need to be.</Hauling.description>
+
 	<Hauling.verb>Haul</Hauling.verb>
-	<Cleaning.labelShort>Clean</Cleaning.labelShort>
-	<Cleaning.pawnLabel>Cleaner</Cleaning.pawnLabel>
-	<Cleaning.gerundLabel>Cleaning</Cleaning.gerundLabel>
+
+	<Cleaning.labelshort>Clean</Cleaning.labelshort>
+
+	<Cleaning.pawnlabel>Cleaner</Cleaning.pawnlabel>
+
+	<Cleaning.gerundlabel>Cleaning</Cleaning.gerundlabel>
+
 	<Cleaning.description>Clear snow and clean the floor in the home area.</Cleaning.description>
+
 	<Cleaning.verb>Clean</Cleaning.verb>
-	<Research.labelShort>Research</Research.labelShort>
-	<Research.pawnLabel>Researcher</Research.pawnLabel>
-	<Research.gerundLabel>Researching</Research.gerundLabel>
+
+	<Research.labelshort>Research</Research.labelshort>
+
+	<Research.pawnlabel>Researcher</Research.pawnlabel>
+
+	<Research.gerundlabel>Researching</Research.gerundlabel>
+
 	<Research.description>Perform research work.</Research.description>
+
 	<Research.verb>Research at</Research.verb>
+
 </LanguageData>

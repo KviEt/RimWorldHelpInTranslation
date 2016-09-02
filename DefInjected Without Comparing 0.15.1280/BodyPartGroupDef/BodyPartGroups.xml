@@ -1,19 +1,36 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
+
 	<UpperHead.label>upper head</UpperHead.label>
+
 	<FullHead.label>full head</FullHead.label>
+
 	<Eyes.label>eyes</Eyes.label>
+
 	<Teeth.label>teeth</Teeth.label>
+
 	<Mouth.label>mouth</Mouth.label>
+
 	<Arms.label>arms</Arms.label>
+
 	<Shoulders.label>shoulders</Shoulders.label>
+
 	<Hands.label>hands</Hands.label>
+
 	<Legs.label>legs</Legs.label>
+
 	<Feet.label>feet</Feet.label>
+
 	<HeadAttackTool.label>head</HeadAttackTool.label>
+
 	<FrontLeftClaws.label>front left claws</FrontLeftClaws.label>
+
 	<FrontRightClaws.label>front right claws</FrontRightClaws.label>
+
 	<TuskAttackTool.label>tusks</TuskAttackTool.label>
+
 	<HornAttackTool.label>horn</HornAttackTool.label>
+
 	<TurtleBeakAttackTool.label>beak</TurtleBeakAttackTool.label>
+
 </LanguageData>

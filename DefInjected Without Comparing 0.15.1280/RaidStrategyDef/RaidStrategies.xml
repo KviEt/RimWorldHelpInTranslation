@@ -1,21 +1,40 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-	<ImmediateAttack.letterLabelEnemy>Raid</ImmediateAttack.letterLabelEnemy>
-	<ImmediateAttack.arrivalTextEnemy>They are attacking immediately.</ImmediateAttack.arrivalTextEnemy>
-	<ImmediateAttack.letterLabelFriendly>Friendlies</ImmediateAttack.letterLabelFriendly>
-	<ImmediateAttack.arrivalTextFriendly>They are moving in to help you immediately.</ImmediateAttack.arrivalTextFriendly>
-	<ImmediateAttackSmart.letterLabelEnemy>Raid</ImmediateAttackSmart.letterLabelEnemy>
-	<ImmediateAttackSmart.arrivalTextEnemy>They are attacking immediately.\n\nWatch out - they appear to be unusually clever with their tactics.</ImmediateAttackSmart.arrivalTextEnemy>
-	<ImmediateAttackSmart.letterLabelFriendly>Friendlies</ImmediateAttackSmart.letterLabelFriendly>
-	<ImmediateAttackSmart.arrivalTextFriendly>They are moving in to help you immediately.</ImmediateAttackSmart.arrivalTextFriendly>
-	<StageThenAttack.letterLabelEnemy>Raid</StageThenAttack.letterLabelEnemy>
-	<StageThenAttack.arrivalTextEnemy>They will prepare for a while, then attack.\n\nPrepare a defense or attack them pre-emptively.</StageThenAttack.arrivalTextEnemy>
-	<StageThenAttack.letterLabelFriendly>Friendlies</StageThenAttack.letterLabelFriendly>
-	<StageThenAttack.arrivalTextFriendly>They will prepare for a while before moving in to help you.</StageThenAttack.arrivalTextFriendly>
-	<ImmediateAttackSappers.letterLabelEnemy>Raid</ImmediateAttackSappers.letterLabelEnemy>
-	<ImmediateAttackSappers.arrivalTextEnemy>It looks like they want to use sappers to tunnel around your defenses.</ImmediateAttackSappers.arrivalTextEnemy>
-	<Siege.letterLabelEnemy>Siege</Siege.letterLabelEnemy>
-	<Siege.arrivalTextEnemy>It looks like they want to besiege the colony and pound you with artillery from a distance. You can try to wait them out - or go get them.</Siege.arrivalTextEnemy>
-	<Siege.letterLabelFriendly>Friendlies</Siege.letterLabelFriendly>
-	<Siege.arrivalTextFriendly>It looks like they want to use siege tactics to help you.</Siege.arrivalTextFriendly>
+
+	<ImmediateAttack.letterlabelenemy>Raid</ImmediateAttack.letterlabelenemy>
+
+	<ImmediateAttack.arrivaltextenemy>They are attacking immediately.</ImmediateAttack.arrivaltextenemy>
+
+	<ImmediateAttack.letterlabelfriendly>Friendlies</ImmediateAttack.letterlabelfriendly>
+
+	<ImmediateAttack.arrivaltextfriendly>They are moving in to help you immediately.</ImmediateAttack.arrivaltextfriendly>
+
+	<ImmediateAttackSmart.letterlabelenemy>Raid</ImmediateAttackSmart.letterlabelenemy>
+
+	<ImmediateAttackSmart.arrivaltextenemy>They are attacking immediately.\n\nWatch out - they appear to be unusually clever with their tactics.</ImmediateAttackSmart.arrivaltextenemy>
+
+	<ImmediateAttackSmart.letterlabelfriendly>Friendlies</ImmediateAttackSmart.letterlabelfriendly>
+
+	<ImmediateAttackSmart.arrivaltextfriendly>They are moving in to help you immediately.</ImmediateAttackSmart.arrivaltextfriendly>
+
+	<StageThenAttack.letterlabelenemy>Raid</StageThenAttack.letterlabelenemy>
+
+	<StageThenAttack.arrivaltextenemy>They will prepare for a while, then attack.\n\nPrepare a defense or attack them pre-emptively.</StageThenAttack.arrivaltextenemy>
+
+	<StageThenAttack.letterlabelfriendly>Friendlies</StageThenAttack.letterlabelfriendly>
+
+	<StageThenAttack.arrivaltextfriendly>They will prepare for a while before moving in to help you.</StageThenAttack.arrivaltextfriendly>
+
+	<ImmediateAttackSappers.letterlabelenemy>Raid</ImmediateAttackSappers.letterlabelenemy>
+
+	<ImmediateAttackSappers.arrivaltextenemy>It looks like they want to use sappers to tunnel around your defenses.</ImmediateAttackSappers.arrivaltextenemy>
+
+	<Siege.letterlabelenemy>Siege</Siege.letterlabelenemy>
+
+	<Siege.arrivaltextenemy>It looks like they want to besiege the colony and pound you with artillery from a distance. You can try to wait them out - or go get them.</Siege.arrivaltextenemy>
+
+	<Siege.letterlabelfriendly>Friendlies</Siege.letterlabelfriendly>
+
+	<Siege.arrivaltextfriendly>It looks like they want to use siege tactics to help you.</Siege.arrivaltextfriendly>
+
 </LanguageData>

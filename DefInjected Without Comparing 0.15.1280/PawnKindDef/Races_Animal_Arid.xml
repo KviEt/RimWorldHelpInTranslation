@@ -1,14 +1,26 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
+
 	<Dromedary.label>dromedary</Dromedary.label>
-	<Dromedary.lifeStages.0.label>dromedary calf</Dromedary.lifeStages.0.label>
+
+	<Dromedary.lifestages.0.label>dromedary calf</Dromedary.lifestages.0.label>
+
 	<PackDromedary.label>dromedary</PackDromedary.label>
-	<PackDromedary.lifeStages.0.label>dromedary calf</PackDromedary.lifeStages.0.label>
+
+	<PackDromedary.lifestages.0.label>dromedary calf</PackDromedary.lifestages.0.label>
+
 	<Muffalo.label>muffalo</Muffalo.label>
-	<Muffalo.lifeStages.0.label>muffalo calf</Muffalo.lifeStages.0.label>
+
+	<Muffalo.lifestages.0.label>muffalo calf</Muffalo.lifestages.0.label>
+
 	<Iguana.label>iguana</Iguana.label>
+
 	<Rhinoceros.label>rhinoceros</Rhinoceros.label>
+
 	<PackMuffalo.label>muffalo</PackMuffalo.label>
-	<PackMuffalo.lifeStages.0.label>muffalo calf</PackMuffalo.lifeStages.0.label>
+
+	<PackMuffalo.lifestages.0.label>muffalo calf</PackMuffalo.lifestages.0.label>
+
 	<Gazelle.label>gazelle</Gazelle.label>
+
 </LanguageData>

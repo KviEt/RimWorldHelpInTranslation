@@ -1,11 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
+
 	<Husky.label>husky</Husky.label>
-	<Husky.lifeStages.0.label>husky puppy</Husky.lifeStages.0.label>
+
+	<Husky.lifestages.0.label>husky puppy</Husky.lifestages.0.label>
+
 	<YorkshireTerrier.label>yorkshire terrier</YorkshireTerrier.label>
-	<YorkshireTerrier.lifeStages.0.label>yorkshire terrier puppy</YorkshireTerrier.lifeStages.0.label>
+
+	<YorkshireTerrier.lifestages.0.label>yorkshire terrier puppy</YorkshireTerrier.lifestages.0.label>
+
 	<LabradorRetriever.label>labrador retriever</LabradorRetriever.label>
-	<LabradorRetriever.lifeStages.0.label>labrador puppy</LabradorRetriever.lifeStages.0.label>
+
+	<LabradorRetriever.lifestages.0.label>labrador puppy</LabradorRetriever.lifestages.0.label>
+
 	<Cat.label>cat</Cat.label>
-	<Cat.lifeStages.0.label>kitten</Cat.lifeStages.0.label>
+
+	<Cat.lifestages.0.label>kitten</Cat.lifestages.0.label>
+
 </LanguageData>

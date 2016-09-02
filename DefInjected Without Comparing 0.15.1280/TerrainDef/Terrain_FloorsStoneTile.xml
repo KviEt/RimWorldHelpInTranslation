@@ -1,13 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-	<TileLimestone.Description>Solid stone tiles for a castle feeling. Pretty to look at, but they take a long time to lay.</TileLimestone.Description>
+
+	<TileLimestone.description>Solid stone tiles for a castle feeling. Pretty to look at, but they take a long time to lay.</TileLimestone.description>
+
 	<TileLimestone.label>limestone tile</TileLimestone.label>
-	<TileSlate.Description>Solid stone tiles for a castle feeling. Pretty to look at, but they take a long time to lay.</TileSlate.Description>
+
+	<TileSlate.description>Solid stone tiles for a castle feeling. Pretty to look at, but they take a long time to lay.</TileSlate.description>
+
 	<TileSlate.label>slate tile</TileSlate.label>
-	<TileSandstone.Description>Solid stone tiles for a castle feeling. Pretty to look at, but they take a long time to lay.</TileSandstone.Description>
+
+	<TileSandstone.description>Solid stone tiles for a castle feeling. Pretty to look at, but they take a long time to lay.</TileSandstone.description>
+
 	<TileSandstone.label>sandstone tile</TileSandstone.label>
-	<TileGranite.Description>Solid stone tiles for a castle feeling. Pretty to look at, but they take a long time to lay.</TileGranite.Description>
+
+	<TileGranite.description>Solid stone tiles for a castle feeling. Pretty to look at, but they take a long time to lay.</TileGranite.description>
+
 	<TileGranite.label>granite tile</TileGranite.label>
-	<TileMarble.Description>Solid stone tiles for a castle feeling. Pretty to look at, but they take a long time to lay.</TileMarble.Description>
+
+	<TileMarble.description>Solid stone tiles for a castle feeling. Pretty to look at, but they take a long time to lay.</TileMarble.description>
+
 	<TileMarble.label>marble tile</TileMarble.label>
+
 </LanguageData>

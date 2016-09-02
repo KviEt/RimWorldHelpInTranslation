@@ -1,8 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-	<Nuzzle.reportString>nuzzling TargetA.</Nuzzle.reportString>
-	<Mate.reportString>mating with TargetA.</Mate.reportString>
-	<LayEgg.reportString>laying egg.</LayEgg.reportString>
-	<PredatorHunt.reportString>hunting TargetA.</PredatorHunt.reportString>
-	<Maintain.reportString>maintaining TargetA.</Maintain.reportString>
+
+	<Nuzzle.reportstring>nuzzling TargetA.</Nuzzle.reportstring>
+
+	<Mate.reportstring>mating with TargetA.</Mate.reportstring>
+
+	<LayEgg.reportstring>laying egg.</LayEgg.reportstring>
+
+	<PredatorHunt.reportstring>hunting TargetA.</PredatorHunt.reportstring>
+
+	<Maintain.reportstring>maintaining TargetA.</Maintain.reportstring>
+
 </LanguageData>

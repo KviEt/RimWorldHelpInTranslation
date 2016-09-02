@@ -1,16 +1,30 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
+
 	<Consciousness.label>consciousness</Consciousness.label>
-	<Consciousness.labelMechanoids>Data processing</Consciousness.labelMechanoids>
+
+	<Consciousness.labelmechanoids>Data processing</Consciousness.labelmechanoids>
+
 	<Sight.label>sight</Sight.label>
+
 	<Hearing.label>hearing</Hearing.label>
+
 	<Moving.label>moving</Moving.label>
+
 	<Manipulation.label>manipulation</Manipulation.label>
+
 	<Talking.label>talking</Talking.label>
-	<Talking.labelMechanoids>Communication</Talking.labelMechanoids>
+
+	<Talking.labelmechanoids>Communication</Talking.labelmechanoids>
+
 	<Eating.label>eating</Eating.label>
+
 	<Breathing.label>breathing</Breathing.label>
+
 	<BloodFiltration.label>blood filtration</BloodFiltration.label>
+
 	<BloodPumping.label>blood pumping</BloodPumping.label>
+
 	<Metabolism.label>metabolism</Metabolism.label>
+
 </LanguageData>

@@ -1,17 +1,32 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-	<Skygaze.reportString>skygazing.</Skygaze.reportString>
-	<Meditate.reportString>meditating.</Meditate.reportString>
-	<Pray.reportString>praying.</Pray.reportString>
-	<GoForWalk.reportString>going for a walk.</GoForWalk.reportString>
-	<BuildSnowman.reportString>building snowman.</BuildSnowman.reportString>
-	<VisitGrave.reportString>visiting grave.</VisitGrave.reportString>
-	<ViewArt.reportString>viewing art.</ViewArt.reportString>
-	<SocialRelax.reportString>relaxing socially.</SocialRelax.reportString>
-	<VisitSickPawn.reportString>cheering up patient TargetA.</VisitSickPawn.reportString>
-	<PlayHorseshoes.reportString>playing horseshoes.</PlayHorseshoes.reportString>
-	<PlayChess.reportString>playing chess.</PlayChess.reportString>
-	<PlayBilliards.reportString>playing billiards.</PlayBilliards.reportString>
-	<WatchTelevision.reportString>watching television.</WatchTelevision.reportString>
-	<UseTelescope.reportString>using telescope.</UseTelescope.reportString>
+
+	<Skygaze.reportstring>skygazing.</Skygaze.reportstring>
+
+	<Meditate.reportstring>meditating.</Meditate.reportstring>
+
+	<Pray.reportstring>praying.</Pray.reportstring>
+
+	<GoForWalk.reportstring>going for a walk.</GoForWalk.reportstring>
+
+	<BuildSnowman.reportstring>building snowman.</BuildSnowman.reportstring>
+
+	<VisitGrave.reportstring>visiting grave.</VisitGrave.reportstring>
+
+	<ViewArt.reportstring>viewing art.</ViewArt.reportstring>
+
+	<SocialRelax.reportstring>relaxing socially.</SocialRelax.reportstring>
+
+	<VisitSickPawn.reportstring>cheering up patient TargetA.</VisitSickPawn.reportstring>
+
+	<PlayHorseshoes.reportstring>playing horseshoes.</PlayHorseshoes.reportstring>
+
+	<PlayChess.reportstring>playing chess.</PlayChess.reportstring>
+
+	<PlayBilliards.reportstring>playing billiards.</PlayBilliards.reportstring>
+
+	<WatchTelevision.reportstring>watching television.</WatchTelevision.reportstring>
+
+	<UseTelescope.reportstring>using telescope.</UseTelescope.reportstring>
+
 </LanguageData>

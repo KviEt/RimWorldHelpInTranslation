@@ -1,7 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
+
 	<Pemmican.label>pemmican</Pemmican.label>
+
 	<Pemmican.description>Make pemmican, a preserved mixture of meat and plant matter that doesn't go bad for a long time. Great for traveling.</Pemmican.description>
+
 	<PassiveCooler.label>passive cooler</PassiveCooler.label>
+
 	<PassiveCooler.description>Make passive coolers, a way to cool indoor spaces without using electricity.</PassiveCooler.description>
+
 </LanguageData>

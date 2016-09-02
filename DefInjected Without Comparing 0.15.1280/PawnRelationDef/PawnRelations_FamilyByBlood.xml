@@ -1,31 +1,60 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
+
 	<Parent.label>father</Parent.label>
-	<Parent.labelFemale>mother</Parent.labelFemale>
+
+	<Parent.labelfemale>mother</Parent.labelfemale>
+
 	<Child.label>son</Child.label>
-	<Child.labelFemale>daughter</Child.labelFemale>
+
+	<Child.labelfemale>daughter</Child.labelfemale>
+
 	<Sibling.label>brother</Sibling.label>
-	<Sibling.labelFemale>sister</Sibling.labelFemale>
+
+	<Sibling.labelfemale>sister</Sibling.labelfemale>
+
 	<HalfSibling.label>brother</HalfSibling.label>
-	<HalfSibling.labelFemale>sister</HalfSibling.labelFemale>
+
+	<HalfSibling.labelfemale>sister</HalfSibling.labelfemale>
+
 	<Grandparent.label>grandfather</Grandparent.label>
-	<Grandparent.labelFemale>grandmother</Grandparent.labelFemale>
+
+	<Grandparent.labelfemale>grandmother</Grandparent.labelfemale>
+
 	<Grandchild.label>grandson</Grandchild.label>
-	<Grandchild.labelFemale>granddaughter</Grandchild.labelFemale>
+
+	<Grandchild.labelfemale>granddaughter</Grandchild.labelfemale>
+
 	<NephewOrNiece.label>nephew</NephewOrNiece.label>
-	<NephewOrNiece.labelFemale>niece</NephewOrNiece.labelFemale>
+
+	<NephewOrNiece.labelfemale>niece</NephewOrNiece.labelfemale>
+
 	<UncleOrAunt.label>uncle</UncleOrAunt.label>
-	<UncleOrAunt.labelFemale>aunt</UncleOrAunt.labelFemale>
+
+	<UncleOrAunt.labelfemale>aunt</UncleOrAunt.labelfemale>
+
 	<Cousin.label>cousin</Cousin.label>
+
 	<GreatGrandparent.label>great grandfather</GreatGrandparent.label>
-	<GreatGrandparent.labelFemale>great grandmother</GreatGrandparent.labelFemale>
+
+	<GreatGrandparent.labelfemale>great grandmother</GreatGrandparent.labelfemale>
+
 	<GreatGrandchild.label>great grandson</GreatGrandchild.label>
-	<GreatGrandchild.labelFemale>great granddaughter</GreatGrandchild.labelFemale>
+
+	<GreatGrandchild.labelfemale>great granddaughter</GreatGrandchild.labelfemale>
+
 	<GranduncleOrGrandaunt.label>granduncle</GranduncleOrGrandaunt.label>
-	<GranduncleOrGrandaunt.labelFemale>grandaunt</GranduncleOrGrandaunt.labelFemale>
+
+	<GranduncleOrGrandaunt.labelfemale>grandaunt</GranduncleOrGrandaunt.labelfemale>
+
 	<GrandnephewOrGrandniece.label>grandnephew</GrandnephewOrGrandniece.label>
-	<GrandnephewOrGrandniece.labelFemale>grandniece</GrandnephewOrGrandniece.labelFemale>
+
+	<GrandnephewOrGrandniece.labelfemale>grandniece</GrandnephewOrGrandniece.labelfemale>
+
 	<CousinOnceRemoved.label>cousin once removed</CousinOnceRemoved.label>
+
 	<SecondCousin.label>second cousin</SecondCousin.label>
+
 	<Kin.label>kin</Kin.label>
+
 </LanguageData>

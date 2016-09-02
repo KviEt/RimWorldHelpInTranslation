@@ -1,11 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
+
 	<UnfinishedGun.label>unfinished gun</UnfinishedGun.label>
+
 	<UnfinishedComponent.label>unfinished component</UnfinishedComponent.label>
+
 	<UnfinishedApparel.label>unfinished apparel</UnfinishedApparel.label>
+
 	<MinifiedSculpture.label>sculpture</MinifiedSculpture.label>
+
 	<MinifiedFurniture.label>furniture</MinifiedFurniture.label>
+
 	<UnfinishedSculpture.label>unfinished sculpture</UnfinishedSculpture.label>
+
 	<UnfinishedWeapon.label>unfinished weapon</UnfinishedWeapon.label>
+
 	<UnfinishedTechArmor.label>unfinished armor</UnfinishedTechArmor.label>
+
 </LanguageData>

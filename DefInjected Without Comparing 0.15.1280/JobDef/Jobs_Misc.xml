@@ -1,40 +1,78 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-	<Goto.reportString>moving.</Goto.reportString>
-	<GotoSafeTemperature.reportString>seeking safe temperature.</GotoSafeTemperature.reportString>
-	<GotoWander.reportString>wandering.</GotoWander.reportString>
-	<Wait.reportString>standing.</Wait.reportString>
-	<WaitDowned.reportString>downed.</WaitDowned.reportString>
-	<WaitSafeTemperature.reportString>waiting in safe temperature.</WaitSafeTemperature.reportString>
-	<WaitWander.reportString>wandering.</WaitWander.reportString>
-	<WaitCombat.reportString>watching for targets.</WaitCombat.reportString>
-	<AttackStatic.reportString>attacking TargetA.</AttackStatic.reportString>
-	<AttackMelee.reportString>melee attacking TargetA.</AttackMelee.reportString>
-	<SocialFight.reportString>fighting with TargetA.</SocialFight.reportString>
-	<Equip.reportString>equipping TargetA.</Equip.reportString>
-	<TakeInventory.reportString>taking TargetA.</TakeInventory.reportString>
-	<Wear.reportString>wearing TargetA.</Wear.reportString>
-	<RemoveApparel.reportString>removing TargetA.</RemoveApparel.reportString>
-	<Strip.reportString>stripping TargetA.</Strip.reportString>
-	<Open.reportString>opening TargetA.</Open.reportString>
-	<RearmTrap.reportString>rearming TargetA.</RearmTrap.reportString>
-	<Refuel.reportString>refueling TargetA.</Refuel.reportString>
-	<FillFermentingBarrel.reportString>filling TargetA.</FillFermentingBarrel.reportString>
-	<TakeBeerOutOfFermentingBarrel.reportString>taking beer out of TargetA.</TakeBeerOutOfFermentingBarrel.reportString>
-	<ManTurret.reportString>operating turret.</ManTurret.reportString>
-	<EnterCryptosleepCasket.reportString>entering cryptosleep casket.</EnterCryptosleepCasket.reportString>
-	<UseNeurotrainer.reportString>using neurotrainer.</UseNeurotrainer.reportString>
-	<UseArtifact.reportString>activating artifact.</UseArtifact.reportString>
-	<TriggerFirefoamPopper.reportString>triggering firefoam popper.</TriggerFirefoamPopper.reportString>
-	<ClearSnow.reportString>clearing snow.</ClearSnow.reportString>
-	<Vomit.reportString>vomiting.</Vomit.reportString>
-	<Flick.reportString>flicking switch.</Flick.reportString>
-	<TradeWithPawn.reportString>trading with TargetA.</TradeWithPawn.reportString>
-	<FleeAndCower.reportString>fleeing.</FleeAndCower.reportString>
-	<Ignite.reportString>igniting TargetA.</Ignite.reportString>
-	<BeatFire.reportString>beating fire out.</BeatFire.reportString>
-	<ExtinguishSelf.reportString>extinguishing self.</ExtinguishSelf.reportString>
-	<Ingest.reportString>consuming TargetA.</Ingest.reportString>
-	<LayDown.reportString>lying down.</LayDown.reportString>
-	<Lovin.reportString>lovin'.</Lovin.reportString>
+
+	<Goto.reportstring>moving.</Goto.reportstring>
+
+	<GotoSafeTemperature.reportstring>seeking safe temperature.</GotoSafeTemperature.reportstring>
+
+	<GotoWander.reportstring>wandering.</GotoWander.reportstring>
+
+	<Wait.reportstring>standing.</Wait.reportstring>
+
+	<WaitDowned.reportstring>downed.</WaitDowned.reportstring>
+
+	<WaitSafeTemperature.reportstring>waiting in safe temperature.</WaitSafeTemperature.reportstring>
+
+	<WaitWander.reportstring>wandering.</WaitWander.reportstring>
+
+	<WaitCombat.reportstring>watching for targets.</WaitCombat.reportstring>
+
+	<AttackStatic.reportstring>attacking TargetA.</AttackStatic.reportstring>
+
+	<AttackMelee.reportstring>melee attacking TargetA.</AttackMelee.reportstring>
+
+	<SocialFight.reportstring>fighting with TargetA.</SocialFight.reportstring>
+
+	<Equip.reportstring>equipping TargetA.</Equip.reportstring>
+
+	<TakeInventory.reportstring>taking TargetA.</TakeInventory.reportstring>
+
+	<Wear.reportstring>wearing TargetA.</Wear.reportstring>
+
+	<RemoveApparel.reportstring>removing TargetA.</RemoveApparel.reportstring>
+
+	<Strip.reportstring>stripping TargetA.</Strip.reportstring>
+
+	<Open.reportstring>opening TargetA.</Open.reportstring>
+
+	<RearmTrap.reportstring>rearming TargetA.</RearmTrap.reportstring>
+
+	<Refuel.reportstring>refueling TargetA.</Refuel.reportstring>
+
+	<FillFermentingBarrel.reportstring>filling TargetA.</FillFermentingBarrel.reportstring>
+
+	<TakeBeerOutOfFermentingBarrel.reportstring>taking beer out of TargetA.</TakeBeerOutOfFermentingBarrel.reportstring>
+
+	<ManTurret.reportstring>operating turret.</ManTurret.reportstring>
+
+	<EnterCryptosleepCasket.reportstring>entering cryptosleep casket.</EnterCryptosleepCasket.reportstring>
+
+	<UseNeurotrainer.reportstring>using neurotrainer.</UseNeurotrainer.reportstring>
+
+	<UseArtifact.reportstring>activating artifact.</UseArtifact.reportstring>
+
+	<TriggerFirefoamPopper.reportstring>triggering firefoam popper.</TriggerFirefoamPopper.reportstring>
+
+	<ClearSnow.reportstring>clearing snow.</ClearSnow.reportstring>
+
+	<Vomit.reportstring>vomiting.</Vomit.reportstring>
+
+	<Flick.reportstring>flicking switch.</Flick.reportstring>
+
+	<TradeWithPawn.reportstring>trading with TargetA.</TradeWithPawn.reportstring>
+
+	<FleeAndCower.reportstring>fleeing.</FleeAndCower.reportstring>
+
+	<Ignite.reportstring>igniting TargetA.</Ignite.reportstring>
+
+	<BeatFire.reportstring>beating fire out.</BeatFire.reportstring>
+
+	<ExtinguishSelf.reportstring>extinguishing self.</ExtinguishSelf.reportstring>
+
+	<Ingest.reportstring>consuming TargetA.</Ingest.reportstring>
+
+	<LayDown.reportstring>lying down.</LayDown.reportstring>
+
+	<Lovin.reportstring>lovin'.</Lovin.reportstring>
+
 </LanguageData>

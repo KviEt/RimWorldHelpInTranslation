@@ -1,12 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
+
 	<Eclipse.label>eclipse</Eclipse.label>
+
 	<SolarFlare.label>solar flare</SolarFlare.label>
+
 	<PsychicDrone.label>psychic drone</PsychicDrone.label>
+
 	<ToxicFallout.label>toxic fallout</ToxicFallout.label>
+
 	<VolcanicWinter.label>volcanic winter</VolcanicWinter.label>
+
 	<HeatWave.label>heat wave</HeatWave.label>
+
 	<ColdSnap.label>cold snap</ColdSnap.label>
+
 	<Flashstorm.label>flashstorm</Flashstorm.label>
+
 	<PsychicSoothe.label>psychic soothe</PsychicSoothe.label>
+
 </LanguageData>

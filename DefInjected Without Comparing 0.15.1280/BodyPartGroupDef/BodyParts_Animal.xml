@@ -1,9 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
+
 	<FrontLeftPaw.label>front left paw</FrontLeftPaw.label>
+
 	<FrontRightPaw.label>front right paw</FrontRightPaw.label>
+
 	<FrontLeftLeg.label>front left leg</FrontLeftLeg.label>
+
 	<FrontRightLeg.label>front right leg</FrontRightLeg.label>
+
 	<HeadClaw.label>head claw</HeadClaw.label>
+
 	<Beak.label>beak</Beak.label>
+
 </LanguageData>

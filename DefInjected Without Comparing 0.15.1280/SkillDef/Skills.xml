@@ -1,27 +1,52 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
+
 	<Shooting.description>Use of all kinds of ranged weapons.</Shooting.description>
-	<Shooting.skillLabel>Shooting</Shooting.skillLabel>
-	<Shooting.pawnLabel>Shooter</Shooting.pawnLabel>
+
+	<Shooting.skilllabel>Shooting</Shooting.skilllabel>
+
+	<Shooting.pawnlabel>Shooter</Shooting.pawnlabel>
+
 	<Melee.description>Use of all kinds of melee weapons as well as unarmed combat.</Melee.description>
-	<Melee.skillLabel>Melee</Melee.skillLabel>
-	<Melee.pawnLabel>Brawler</Melee.pawnLabel>
+
+	<Melee.skilllabel>Melee</Melee.skilllabel>
+
+	<Melee.pawnlabel>Brawler</Melee.pawnlabel>
+
 	<Social.description>Negotiating, convincing, manipulating, leading, and cheering up others.</Social.description>
-	<Social.skillLabel>Social</Social.skillLabel>
-	<Social.pawnLabel>Socialite</Social.pawnLabel>
+
+	<Social.skilllabel>Social</Social.skilllabel>
+
+	<Social.pawnlabel>Socialite</Social.pawnlabel>
+
 	<Animals.description>Taming, training, managing, and controlling animals.</Animals.description>
-	<Animals.skillLabel>Animals</Animals.skillLabel>
-	<Animals.pawnLabel>Handler</Animals.pawnLabel>
+
+	<Animals.skilllabel>Animals</Animals.skilllabel>
+
+	<Animals.pawnlabel>Handler</Animals.pawnlabel>
+
 	<Medicine.description>Treating wounds and diseases and doing surgery.</Medicine.description>
-	<Medicine.skillLabel>Medicine</Medicine.skillLabel>
-	<Medicine.pawnLabel>Doctor</Medicine.pawnLabel>
-	<Cooking.skillLabel>Cooking</Cooking.skillLabel>
-	<Construction.skillLabel>Construction</Construction.skillLabel>
-	<Growing.skillLabel>Growing</Growing.skillLabel>
-	<Mining.skillLabel>Mining</Mining.skillLabel>
+
+	<Medicine.skilllabel>Medicine</Medicine.skilllabel>
+
+	<Medicine.pawnlabel>Doctor</Medicine.pawnlabel>
+
+	<Cooking.skilllabel>Cooking</Cooking.skilllabel>
+
+	<Construction.skilllabel>Construction</Construction.skilllabel>
+
+	<Growing.skilllabel>Growing</Growing.skilllabel>
+
+	<Mining.skilllabel>Mining</Mining.skilllabel>
+
 	<Artistic.description>Crafting art.</Artistic.description>
-	<Artistic.skillLabel>Artistic</Artistic.skillLabel>
-	<Artistic.pawnLabel>Artist</Artistic.pawnLabel>
-	<Crafting.skillLabel>Crafting</Crafting.skillLabel>
-	<Research.skillLabel>Research</Research.skillLabel>
+
+	<Artistic.skilllabel>Artistic</Artistic.skilllabel>
+
+	<Artistic.pawnlabel>Artist</Artistic.pawnlabel>
+
+	<Crafting.skilllabel>Crafting</Crafting.skilllabel>
+
+	<Research.skilllabel>Research</Research.skilllabel>
+
 </LanguageData>

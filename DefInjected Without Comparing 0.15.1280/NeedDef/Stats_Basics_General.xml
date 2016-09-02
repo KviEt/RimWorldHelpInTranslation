@@ -1,7 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
+
 	<Beauty.label>beauty</Beauty.label>
+
 	<Beauty.description>How enjoyable an object is to be around and look at.</Beauty.description>
+
 	<Comfort.label>comfort</Comfort.label>
+
 	<Comfort.description>How comfortble an object is to sit or lay on.</Comfort.description>
+
 </LanguageData>

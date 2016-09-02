@@ -1,15 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-	<NamerScenario.rulePack.rulesStrings.0>name->[story] [trans] the [weapon]</NamerScenario.rulePack.rulesStrings.0>
-	<NamerScenario.rulePack.rulesStrings.1>name->[story] [trans] the [animal]</NamerScenario.rulePack.rulesStrings.1>
-	<NamerScenario.rulePack.rulesStrings.2>name->[story] [trans] the [terrainfeature]</NamerScenario.rulePack.rulesStrings.2>
-	<NamerScenario.rulePack.rulesStrings.3>name->[story] [trans] [outlander]s</NamerScenario.rulePack.rulesStrings.3>
-	<NamerScenario.rulePack.rulesStrings.4>name->[story] [trans] [concept]</NamerScenario.rulePack.rulesStrings.4>
-	<NamerScenario.rulePack.rulesStrings.5>name->[concept] [story]</NamerScenario.rulePack.rulesStrings.5>
-	<NamerScenario.rulePack.rulesStrings.6>name->[story] [trans] a [community]</NamerScenario.rulePack.rulesStrings.6>
-	<NamerScenario.rulePack.rulesStrings.7>name->a [adjective] [story]</NamerScenario.rulePack.rulesStrings.7>
-	<NamerScenario.rulePack.rulesStrings.8>name->[story] [trans] the [game]</NamerScenario.rulePack.rulesStrings.8>
-	<NamerScenario.rulePack.rulesStrings.9>name->[story] in [color] and [color]</NamerScenario.rulePack.rulesStrings.9>
-	<NamerScenario.rulePack.rulesStrings.10>name->[color] [story]</NamerScenario.rulePack.rulesStrings.10>
-	<NamerScenario.rulePack.rulesStrings.11>name->[story] [romannumeral]</NamerScenario.rulePack.rulesStrings.11>
+
+	<NamerScenario.rulepack.rulesstrings.0>name->[story] [trans] the [weapon]</NamerScenario.rulepack.rulesstrings.0>
+
+	<NamerScenario.rulepack.rulesstrings.1>name->[story] [trans] the [animal]</NamerScenario.rulepack.rulesstrings.1>
+
+	<NamerScenario.rulepack.rulesstrings.2>name->[story] [trans] the [terrainfeature]</NamerScenario.rulepack.rulesstrings.2>
+
+	<NamerScenario.rulepack.rulesstrings.3>name->[story] [trans] [outlander]s</NamerScenario.rulepack.rulesstrings.3>
+
+	<NamerScenario.rulepack.rulesstrings.4>name->[story] [trans] [concept]</NamerScenario.rulepack.rulesstrings.4>
+
+	<NamerScenario.rulepack.rulesstrings.5>name->[concept] [story]</NamerScenario.rulepack.rulesstrings.5>
+
+	<NamerScenario.rulepack.rulesstrings.6>name->[story] [trans] a [community]</NamerScenario.rulepack.rulesstrings.6>
+
+	<NamerScenario.rulepack.rulesstrings.7>name->a [adjective] [story]</NamerScenario.rulepack.rulesstrings.7>
+
+	<NamerScenario.rulepack.rulesstrings.8>name->[story] [trans] the [game]</NamerScenario.rulepack.rulesstrings.8>
+
+	<NamerScenario.rulepack.rulesstrings.9>name->[story] in [color] and [color]</NamerScenario.rulepack.rulesstrings.9>
+
+	<NamerScenario.rulepack.rulesstrings.10>name->[color] [story]</NamerScenario.rulepack.rulesstrings.10>
+
+	<NamerScenario.rulepack.rulesstrings.11>name->[story] [romannumeral]</NamerScenario.rulepack.rulesstrings.11>
+
 </LanguageData>
