@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+	<!-- Mental breaks: extreme -->
+
 	<Berserk.label>психоз</Berserk.label>
 
 	<Berserk.beginLetterLabel>псих</Berserk.beginLetterLabel>
@@ -31,6 +33,8 @@
 
 	<GiveUpExit.inspectLine>Душевное состояние: сдался и уходит</GiveUpExit.inspectLine>
 
+	<!-- Mental breaks: serious -->
+
 	<BingingAlcohol.label>налегает на алкоголь</BingingAlcohol.label>
 
 	<BingingAlcohol.beginLetterLabel>пьян</BingingAlcohol.beginLetterLabel>
@@ -50,6 +54,8 @@
 	<WanderPsychotic.recoveryMessage>{0} более не ошарашен.</WanderPsychotic.recoveryMessage>
 
 	<WanderPsychotic.inspectLine>Душевное состояние: потрясён и блуждает</WanderPsychotic.inspectLine>
+
+	<!-- Mental breaks: minor -->
 
 	<BingingFood.label>переедает</BingingFood.label>
 

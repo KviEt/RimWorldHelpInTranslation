@@ -69,6 +69,8 @@
 
 	<LayDown.reportString>ложится.</LayDown.reportString>
 
+	<!--============ Love ============-->
+
 	<Lovin.reportString>любит.</Lovin.reportString>
 
 	<FillFermentingBarrel.reportstring>filling TargetA.</FillFermentingBarrel.reportstring>

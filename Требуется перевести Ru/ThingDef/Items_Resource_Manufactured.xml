@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+	<!--=============== Medicine ====================-->
+
 	<HerbalMedicine.label>лекарственные травы</HerbalMedicine.label>
 
 	<HerbalMedicine.description>Упаковка травяного отвара, обычно изготавливаемого из растений ксеригиума. Слабее промышленной фармацевтики.</HerbalMedicine.description>
@@ -13,9 +15,13 @@
 
 	<GlitterworldMedicine.description>Улучшенные медикаменты из высокотехнологичных миров.</GlitterworldMedicine.description>
 
+	<!--=============== Shells ====================-->
+
 	<ArtilleryShell.label>снаряды</ArtilleryShell.label>
 
 	<ArtilleryShell.description>Для стрельбы из артиллерийских орудий.</ArtilleryShell.description>
+
+	<!--=============== Components ====================-->
 
 	<Component.label>компонент</Component.label>
 

@@ -5,6 +5,8 @@
 
 	<CraftingSpot.description>Место для создания простых вещей, таких как заточки и луки.</CraftingSpot.description>
 
+	<!-- Work tables -->
+
 	<TableSculpting.label>мастерская скульптора</TableSculpting.label>
 
 	<TableSculpting.description>Стол, оборудованный для ваяния скульптур.</TableSculpting.description>
@@ -57,6 +59,8 @@
 
 	<ComponentAssemblyBench.description>Верстак, оборудованный продвинутыми инструментами для сборки компонентов из более простых материалов.</ComponentAssemblyBench.description>
 
+	<!-- Non-standard work buildings -->
+
 	<SimpleResearchBench.label>простой верстак учёного</SimpleResearchBench.label>
 
 	<SimpleResearchBench.description>Стол для научных изысканий, снабжённый простейшими инструментами. Исследователи работают за ним над открытием новых вещей.</SimpleResearchBench.description>
@@ -72,6 +76,8 @@
 	<HydroponicsBasin.label>гидропонная ферма</HydroponicsBasin.label>
 
 	<HydroponicsBasin.description>Позволяет быстро выращивать растения в искуственной питательной среде. Требует электроэнергию; растения умрут, если её не будет.</HydroponicsBasin.description>
+
+	<!--======================== Nutrient dispenser ==============================-->
 
 	<NutrientPasteDispenser.label>дозатор пасты</NutrientPasteDispenser.label>
 

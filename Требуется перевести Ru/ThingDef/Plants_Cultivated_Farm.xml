@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+	<!--=========================== Crops ==============================-->
+
 	<PlantPotato.label>картофель</PlantPotato.label>
 
 	<PlantPotato.description>Простой, очень питательный клубень. Хорошо растёт даже на обеднённых почвах. Выносливая культура, которая быстро убирается.</PlantPotato.description>

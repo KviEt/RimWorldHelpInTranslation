@@ -1,13 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+	<!--============= Item hauling ===============-->
+
 	<HaulToCell.reportString>несёт TargetA.</HaulToCell.reportString>
 
 	<HaulToContainer.reportString>несёт TargetA.</HaulToContainer.reportString>
 
+	<!--============= Special hauling ===============-->
+
 	<Steal.reportString>крадёт TargetA.</Steal.reportString>
 
 	<Kidnap.reportString>похищает TargetA.</Kidnap.reportString>
+
+	<!-- Pawn hauling -->
 
 	<Rescue.reportString>спасает TargetA.</Rescue.reportString>
 
@@ -25,6 +31,8 @@
 
 	<TakeToBedToOperate.reportString>относит TargetA в кровать.</TakeToBedToOperate.reportString>
 
+	<!--============= Animal handling ===============-->
+
 	<Slaughter.reportString>закалывает TargetA.</Slaughter.reportString>
 
 	<Milk.reportString>доит TargetA.</Milk.reportString>
@@ -34,6 +42,8 @@
 	<Tame.reportString>приручает TargetA.</Tame.reportString>
 
 	<Train.reportString>тренирует TargetA.</Train.reportString>
+
+	<!-- Construction and repair -->
 
 	<PlaceNoCostFrame.reportString>строит TargetA.</PlaceNoCostFrame.reportString>
 
@@ -51,9 +61,13 @@
 
 	<RemoveRoof.reportString>разбирает крышу.</RemoveRoof.reportString>
 
+	<!-- Medical -->
+
 	<FeedPatient.reportString>скармливает TargetA TargetB.</FeedPatient.reportString>
 
 	<TendPatient.reportString>лечит TargetA.</TendPatient.reportString>
+
+	<!-- Misc -->
 
 	<DeliverFood.reportString>несёт TargetA для TargetB.</DeliverFood.reportString>
 
