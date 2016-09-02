@@ -402,8 +402,8 @@ for defName in XMLNewFiles.keys():
         xml.write(u"<?xml version=\"1.0\" encoding=\"utf-8\" ?>\n")
         xml.write(u"<%s>\n"%root.tag)
         for element in root:
-            xml.write(u"\t<%s>"%element.tag)
+            xml.write(u"\n\t<%s>"%element.tag)
             xml.write(element.text)
             xml.write(u"</%s>\n"%element.tag)
-        xml.write(u"</%s>\n"%root.tag)
+        xml.write(u"\n</%s>\n"%root.tag)
         xml.close()
