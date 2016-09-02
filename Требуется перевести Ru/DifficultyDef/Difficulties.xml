@@ -1,13 +1,44 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
+
+	<FreePlay.label>Свободная игра</FreePlay.label>
+
+	<FreePlay.description>Песочница. Угрозы иногда бывают, но они очень слабы.</FreePlay.description>
+
+	<Basebuilder.label>Строительство</Basebuilder.label>
+
+	<Basebuilder.description>Стиль игры, сфокусированный в основном на строительстве базы. Уровень угроз несколько уменьшен.</Basebuilder.description>
+
+	<Rough.label>Чужбина</Rough.label>
+
+	<Rough.description>Это грубая и неприветливая планета. Угрозы могут быть довольно опасны. Отсутствуют бонусы к настроению поселенцев и темпу роста урожая.</Rough.description>
+
+	<Challenge.label>Вызов</Challenge.label>
+
+	<Challenge.description>Игра бросает вам вызов. Здесь нужны стратегия, тактика и удача чтобы выжить. Так, как и было задумано в игре RimWorld изначально.</Challenge.description>
+
+	<Extreme.label>Экстрим</Extreme.label>
+
+	<Extreme.description>Дамоклов меч будет постоянно висеть над поселением. Противники сильны, цены невыгодны, количество пропитания скудно, а поселенцы угрюмы. Это самый настоящий цифровой ад.</Extreme.description>
+
 	<VeryEasy.label>Base builder</VeryEasy.label>
+
 	<VeryEasy.description>For those who want to relax and build a colony in a sandbox-like environment. Threats appear, but they're extremely weak. Some of the more dangerous events are disabled.</VeryEasy.description>
+
 	<Easy.label>Casual</Easy.label>
+
 	<Easy.description>For players on their first game, or casual players who still want a challenge. Threats are scaled back, but no so much that they aren't dangerous.</Easy.description>
+
 	<Medium.label>Rough</Medium.label>
+
 	<Medium.description>It's a rough planet. Threats can be quite dangerous. Not recommended until you've got some experience with the game.</Medium.description>
+
 	<Hard.label>Challenge</Hard.label>
+
 	<Hard.description>A significant challenge. Succeeding at this level requires a solid and well-rounded understanding of survival strategies.</Hard.description>
+
 	<VeryHard.label>Extreme</VeryHard.label>
+
 	<VeryHard.description>As hard as a diamond-bladed dagger. Enemies are strong, prices are poor, food is scarce, and colonists are grumpy. For those who enjoy digital suffering.</VeryHard.description>
+
 </LanguageData>

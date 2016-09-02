@@ -1,10 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
+
 	<WakeUpTolerance.stages.1.label>small</WakeUpTolerance.stages.1.label>
+
 	<WakeUpTolerance.stages.2.label>large</WakeUpTolerance.stages.2.label>
+
 	<WakeUpTolerance.stages.3.label>massive</WakeUpTolerance.stages.3.label>
+
 	<WakeUpTolerance.label>wake-up tolerance</WakeUpTolerance.label>
+
 	<WakeUpAddiction.label>wake-up addiction</WakeUpAddiction.label>
+
 	<WakeUpAddiction.stages.1.label>withdrawal</WakeUpAddiction.stages.1.label>
+
 	<WakeUpHigh.label>high on wake-up</WakeUpHigh.label>
+
 </LanguageData>

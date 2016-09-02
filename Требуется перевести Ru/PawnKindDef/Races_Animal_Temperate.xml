@@ -1,5 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-	<Ibex.labelMale>ibex ram</Ibex.labelMale>
-	<Ibex.labelFemale>ibex doe</Ibex.labelFemale>
+
+	<Ibex.labelmale>ibex ram</Ibex.labelmale>
+
+	<Ibex.labelfemale>ibex doe</Ibex.labelfemale>
+
 </LanguageData>
