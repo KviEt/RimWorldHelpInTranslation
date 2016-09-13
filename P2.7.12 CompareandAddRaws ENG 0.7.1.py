@@ -219,7 +219,7 @@ def findXMLORG(path, funcSearch):
         else:
             subDir = os.path.join(path, fileXML)
             if os.path.isdir(subDir):
-                findXMLORG(subDir)
+                findXMLORG(subDir, funcSearch)
 
 def findXMLTranslation(path, nameDef):
     listOfDir = os.listdir(path)
